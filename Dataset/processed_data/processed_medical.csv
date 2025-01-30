@@ -1,0 +1,1057 @@
+,description,domain,sub_domain
+0,"Diagnosis and treatment of heart diseases, including heart attacks and hypertension.",Medical,Cardiology
+1,Study of the nervous system and related disorders like Alzheimer's and Parkinson's disease.,Medical,Neurology
+2,"Treatment of musculoskeletal system issues, including fractures and joint disorders.",Medical,Orthopedics
+3,"Diagnosis and treatment of various cancers, including breast cancer and leukemia.",Medical,Oncology
+4,"Health care for children, covering vaccinations, growth, and developmental issues.",Medical,Pediatrics
+5,Immediate treatment of urgent medical conditions and trauma.,Medical,Emergency Medicine
+6,Managing anesthesia and pain relief during surgeries and procedures.,Medical,Anesthesiology
+7,Surgical procedures for reconstructive or cosmetic purposes.,Medical,Plastic Surgery
+8,"Women's health, including reproductive system disorders and childbirth.",Medical,Gynecology
+9,"Study and treatment of hormone-related conditions, such as diabetes and thyroid disorders.",Medical,Endocrinology
+10,Diagnosis and treatment of kidney diseases and conditions like dialysis.,Medical,Nephrology
+11,Medical imaging techniques for diagnosing and monitoring diseases.,Medical,Radiology
+12,Study of diseases by examining tissues and body fluids for diagnosis.,Medical,Pathology
+13,"Diagnosis and treatment of infections caused by bacteria, viruses, and other pathogens.",Medical,Infectious Diseases
+14,"Health care and management of elderly individuals, focusing on age-related diseases.",Medical,Geriatrics
+15,Study and treatment of skin diseases and disorders such as acne and eczema.,Medical,Dermatology
+16,Diagnosis and treatment of allergies and immune system disorders.,Medical,Allergy & Immunology
+17,"Study and treatment of blood-related diseases, including anemia and clotting disorders.",Medical,Hematology
+18,"Surgical procedures for a wide range of conditions, from appendicitis to hernia repair.",Medical,General Surgery
+19,"Comprehensive care for adult patients, managing chronic diseases and preventative care.",Medical,Internal Medicine
+20,"Management of coronary artery disease, including stent placements and bypass surgeries.",Medical,Cardiology
+21,"Treatment for migraines, epilepsy, and neurological disorders affecting the brain.",Medical,Neurology
+22,"Joint replacement surgeries for hip, knee, and shoulder, restoring mobility.",Medical,Orthopedics
+23,"Chemotherapy, radiation, and targeted therapies for various types of cancer.",Medical,Oncology
+24,"Treatment for childhood illnesses, from common colds to chronic conditions like asthma.",Medical,Pediatrics
+25,"Trauma care for car accidents, burns, and severe injuries requiring urgent attention.",Medical,Emergency Medicine
+26,Anesthesia for elective surgeries and monitoring vital signs during procedures.,Medical,Anesthesiology
+27,Reconstructive surgeries to repair deformities caused by accidents or congenital issues.,Medical,Plastic Surgery
+28,"Routine gynecological exams, including pap smears and treatment for menstrual disorders.",Medical,Gynecology
+29,"Management of diabetes, adrenal disorders, and pituitary gland diseases.",Medical,Endocrinology
+30,Dialysis management for chronic kidney disease and renal transplantation.,Medical,Nephrology
+31,"CT scans, MRIs, and X-rays for imaging internal organs to diagnose conditions.",Medical,Radiology
+32,Identifying disease markers and causes by studying tissue samples and body fluids.,Medical,Pathology
+33,"Treatment of HIV, tuberculosis, and emerging viral diseases like Ebola and COVID-19.",Medical,Infectious Diseases
+34,"Managing chronic conditions like arthritis, dementia, and osteoporosis in elderly populations.",Medical,Geriatrics
+35,"Treatment of skin conditions such as psoriasis, skin cancer, and sunburns.",Medical,Dermatology
+36,"Managing seasonal allergies, asthma, and autoimmune diseases like lupus.",Medical,Allergy & Immunology
+37,"Blood transfusions, bone marrow transplants, and treatment for blood cancers.",Medical,Hematology
+38,"Routine surgeries such as gallbladder removal, appendectomy, and hernia repair.",Medical,General Surgery
+39,"Comprehensive management of diseases like hypertension, heart disease, and diabetes.",Medical,Internal Medicine
+40,"Prenatal and postnatal care, including delivery and pregnancy complications.",Medical,Obstetrics
+41,"Treatment for vision problems, including cataract surgeries and glaucoma management.",Medical,Ophthalmology
+42,"Diagnosis and treatment of ear, nose, and throat conditions like sinusitis and hearing loss.",Medical,ENT
+43,Fertility treatments such as IVF and management of reproductive health issues.,Medical,Reproductive Medicine
+44,Electrocardiograms (ECGs) and echocardiograms for diagnosing heart conditions.,Medical,Cardiology
+45,"Treatment of fractures and bone injuries with casts, splints, and surgical interventions.",Medical,Orthopedics
+46,"Palliative care for cancer patients, focusing on comfort and quality of life.",Medical,Oncology
+47,"Stroke rehabilitation, treatment of brain injuries, and management of cognitive disorders.",Medical,Neurology
+48,Autopsies and forensic pathology to determine causes of unexplained deaths.,Medical,Pathology
+49,Ultrasound imaging for monitoring pregnancies and diagnosing soft tissue issues.,Medical,Radiology
+50,"Vaccination programs to prevent diseases like measles, mumps, and rubella.",Medical,Infectious Diseases
+51,"Treatment of fungal infections, warts, and other skin conditions through topical treatments.",Medical,Dermatology
+52,"Emergency surgeries such as appendectomy, and treatment of gastrointestinal issues.",Medical,General Surgery
+53,Managing dialysis for end-stage renal disease and kidney transplantation.,Medical,Nephrology
+54,"Care for heart attacks, strokes, and respiratory failures in urgent care settings.",Medical,Emergency Medicine
+55,"Facial surgeries, including rhinoplasty, facelifts, and reconstructive skin grafts.",Medical,Plastic Surgery
+56,Pediatric vaccines and immunization schedules for disease prevention.,Medical,Pediatrics
+57,Management of metabolic disorders like obesity and polycystic ovary syndrome (PCOS).,Medical,Endocrinology
+58,"Spinal surgeries for herniated discs, scoliosis, and degenerative diseases.",Medical,Orthopedics
+59,"Treatment for viral infections like Hepatitis, Zika, and HPV.",Medical,Infectious Diseases
+60,"Targeted therapies for specific types of cancer, including immunotherapies and monoclonal antibodies.",Medical,Oncology
+61,"Routine check-ups, management of chronic conditions, and preventative care strategies.",Medical,Internal Medicine
+62,Genetic testing to identify inherited disorders and cancer predispositions.,Medical,Pathology
+63,Management of arrhythmias and atrial fibrillation with medication and electrical therapy.,Medical,Cardiology
+64,Preconception counseling and fertility preservation for individuals undergoing cancer treatment.,Medical,Reproductive Medicine
+65,Arthroscopic surgery for repairing ligament tears and joint injuries.,Medical,Orthopedics
+66,Cosmetic surgeries for body contouring and enhancing physical appearance.,Medical,Plastic Surgery
+67,Monitoring growth milestones and developmental disorders in children.,Medical,Pediatrics
+68,"Managing high-risk pregnancies, preterm labor, and post-birth recovery.",Medical,Obstetrics
+69,Hormonal therapies for menopause and treatment of fibroids and ovarian cysts.,Medical,Gynecology
+70,Kidney stone management and interventions for chronic kidney disease.,Medical,Nephrology
+71,Sedation for minor procedures like dental work and endoscopies.,Medical,Anesthesiology
+72,Trauma care and resuscitation efforts for major accidents and sudden cardiac arrest.,Medical,Emergency Medicine
+73,Managing hemophilia and other clotting disorders through medication and blood transfusions.,Medical,Hematology
+74,Hip replacement surgery for osteoarthritis and bone fractures.,Medical,Orthopedics
+75,"Management of multiple sclerosis, Parkinson's disease, and other neurodegenerative conditions.",Medical,Neurology
+76,Heart failure management and ventricular assist device implantation.,Medical,Cardiology
+77,Treatment of fungal infections like Candida and Aspergillus.,Medical,Infectious Diseases
+78,Molecular pathology for identifying genetic mutations linked to cancers.,Medical,Pathology
+79,"Laser treatment for acne scars, tattoos, and age spots.",Medical,Dermatology
+80,"Rehabilitation therapies following fractures, including physical therapy.",Medical,Orthopedics
+81,"Chronic kidney disease stage management, focusing on slowing disease progression.",Medical,Nephrology
+82,"Laparoscopic procedures for gallbladder removal, hernia repair, and appendectomy.",Medical,General Surgery
+83,"Monitoring and managing high blood pressure, cholesterol, and heart disease risk factors.",Medical,Internal Medicine
+84,Management of retinal diseases like macular degeneration and diabetic retinopathy.,Medical,Ophthalmology
+85,"Emergency care for drug overdoses, poisoning, and overdose reversal treatments.",Medical,Emergency Medicine
+86,"Hand surgery for congenital deformities, trauma, and nerve issues.",Medical,Plastic Surgery
+87,Immunization programs and their role in protecting children from infectious diseases.,Medical,Pediatrics
+88,"Palliative care for cancer patients in hospice settings, focusing on pain relief.",Medical,Oncology
+89,Infertility treatments such as egg freezing and sperm banking.,Medical,Reproductive Medicine
+90,"Thyroid disorder management, including hypothyroidism and hyperthyroidism treatments.",Medical,Endocrinology
+91,"Heart disease prevention programs through diet, exercise, and medications.",Medical,Cardiology
+92,Managing diabetic nephropathy and renal complications due to diabetes.,Medical,Nephrology
+93,Prevention and treatment of sexually transmitted infections (STIs).,Medical,Infectious Diseases
+94,"Caring for older adults with dementia and Alzheimer’s disease, offering memory care.",Medical,Geriatrics
+95,Minimally invasive knee surgeries for patients with osteoarthritis.,Medical,Orthopedics
+96,Emergency laparotomies for abdominal trauma or injury.,Medical,General Surgery
+97,Reconstructive surgery following traumatic injuries or birth defects.,Medical,Plastic Surgery
+98,Management of nephrotic syndrome and chronic kidney disease stages.,Medical,Nephrology
+99,"Assisting in complicated deliveries, including cesarean sections and forceps delivery.",Medical,Obstetrics
+100,Genetic counseling and screening for hereditary conditions in children.,Medical,Pediatrics
+101,Immunohistochemistry and genetic testing for cancer subtypes.,Medical,Pathology
+102,Management of cerebral palsy and other pediatric neurological disorders.,Medical,Neurology
+103,Managing anesthesia during cardiac surgeries and organ transplants.,Medical,Anesthesiology
+104,Targeted cancer therapies to treat specific mutations in tumors.,Medical,Oncology
+105,Blood clot management and treatments for deep vein thrombosis (DVT) and pulmonary embolism.,Medical,Hematology
+106,MRI-guided biopsy procedures for diagnosing cancers and other conditions.,Medical,Radiology
+107,Hormonal replacement therapy for men with testosterone deficiencies.,Medical,Endocrinology
+108,"Reconstructive breast surgery post-mastectomy, including breast implants.",Medical,Plastic Surgery
+109,Cervical cancer screening and management of abnormal pap smears.,Medical,Gynecology
+110,Chronic pain management strategies for arthritis and joint disorders.,Medical,Orthopedics
+111,Dialysis initiation and management for patients with end-stage renal failure.,Medical,Nephrology
+112,Advanced cardiac life support (ACLS) for cardiac arrest and respiratory failure cases.,Medical,Emergency Medicine
+113,Colorectal surgeries including bowel resections and treatment of diverticulitis.,Medical,General Surgery
+114,Management of autoimmune diseases like rheumatoid arthritis and lupus.,Medical,Internal Medicine
+115,Scar revision and treatments for hypertrophic scars and keloids.,Medical,Plastic Surgery
+116,Bone marrow transplantations for patients with leukemia and lymphoma.,Medical,Oncology
+117,"Advanced heart failure treatments, including heart transplants and ventricular assist devices.",Medical,Cardiology
+118,Kidney transplantation and post-transplantation care for organ rejection prevention.,Medical,Nephrology
+119,Electrophysiology procedures for treating arrhythmias using ablation techniques.,Medical,Cardiology
+120,"Neurological rehabilitation for stroke patients, focusing on regaining motor functions.",Medical,Neurology
+121,"Treatment of bone infections with antibiotics and, if needed, surgical debridement.",Medical,Orthopedics
+122,"Immunotherapy for cancers, stimulating the immune system to target and destroy cancer cells.",Medical,Oncology
+123,"Management of pediatric asthma with inhalers, nebulizers, and lifestyle modifications.",Medical,Pediatrics
+124,Advanced trauma life support (ATLS) for patients with multiple traumatic injuries.,Medical,Emergency Medicine
+125,Spinal anesthesia for surgeries on the lower extremities and pelvic region.,Medical,Anesthesiology
+126,Burn reconstruction and skin grafts for patients with severe burn injuries.,Medical,Plastic Surgery
+127,Screening and treatment for sexually transmitted infections (STIs) in women.,Medical,Gynecology
+128,Management of adrenal insufficiency through hormone replacement therapies.,Medical,Endocrinology
+129,Managing glomerulonephritis through medication and monitoring kidney function.,Medical,Nephrology
+130,PET scans for detecting cancerous growths and monitoring treatment efficacy.,Medical,Radiology
+131,Microbial culture testing to identify bacterial infections and determine antibiotic susceptibility.,Medical,Pathology
+132,"Antiviral therapies for treating conditions like HIV, Hepatitis, and Herpes.",Medical,Infectious Diseases
+133,Managing osteoporosis in elderly patients to prevent fractures and improve bone density.,Medical,Geriatrics
+134,Cryotherapy for treating precancerous lesions and warts by freezing them.,Medical,Dermatology
+135,Immunotherapy for environmental allergies to reduce symptoms over time.,Medical,Allergy & Immunology
+136,"Managing sickle cell disease with pain control, hydration, and blood transfusions.",Medical,Hematology
+137,Laparoscopic cholecystectomy to remove the gallbladder using minimally invasive techniques.,Medical,General Surgery
+138,"Comprehensive management of adult diseases, including cardiovascular and metabolic disorders.",Medical,Internal Medicine
+139,"Assisting with normal and complicated deliveries, including high-risk pregnancies.",Medical,Obstetrics
+140,"Treatment for macular degeneration, including injections to slow down vision loss.",Medical,Ophthalmology
+141,Treating snoring and sleep apnea with CPAP therapy and surgical options like uvulopalatopharyngoplasty.,Medical,ENT
+142,Ovulation induction and fertility treatments for women with polycystic ovary syndrome (PCOS).,Medical,Reproductive Medicine
+143,Management of high blood pressure with lifestyle changes and antihypertensive medications.,Medical,Cardiology
+144,Spinal fusion surgeries to treat conditions like scoliosis and degenerative disc disease.,Medical,Orthopedics
+145,Bone marrow biopsies to diagnose leukemia and lymphomas for appropriate treatment.,Medical,Oncology
+146,Cognitive therapies for Alzheimer's disease patients to help with memory retention.,Medical,Neurology
+147,Flow cytometry for detecting and diagnosing blood cancers like leukemia and lymphoma.,Medical,Pathology
+148,Fluoroscopy for real-time imaging during procedures like catheter placements and biopsies.,Medical,Radiology
+149,Treatment for chronic infections like tuberculosis and leprosy with long-term antibiotics.,Medical,Infectious Diseases
+150,Management of eczema and psoriasis through topical corticosteroids and phototherapy.,Medical,Dermatology
+151,Emergency surgical management of ruptured appendicitis and gastrointestinal perforations.,Medical,General Surgery
+152,Renal artery stenosis treatment through angioplasty and stent placement to improve kidney blood flow.,Medical,Nephrology
+153,"Trauma care for gunshot wounds, stab wounds, and other penetrating injuries.",Medical,Emergency Medicine
+154,"Reconstructive breast surgery after mastectomy, including nipple reconstruction.",Medical,Plastic Surgery
+155,"Childhood vaccinations for diseases like polio, measles, and whooping cough.",Medical,Pediatrics
+156,Thyroidectomy for the treatment of thyroid cancer and hyperthyroidism.,Medical,Endocrinology
+157,"Fracture management through casting, splinting, and, in some cases, surgical intervention.",Medical,Orthopedics
+158,Treatment for viral hepatitis through antiviral medications to reduce liver damage.,Medical,Infectious Diseases
+159,Use of radiation therapy in combination with chemotherapy for lung and breast cancer treatments.,Medical,Oncology
+160,Treating adult-onset diabetes through blood sugar monitoring and insulin therapies.,Medical,Internal Medicine
+161,Immunohistochemical staining for cancer subtyping and diagnosis of various tumor types.,Medical,Pathology
+162,Coronary artery bypass grafting (CABG) for severe heart disease to improve blood flow to the heart.,Medical,Cardiology
+163,"Management of male infertility through sperm analysis, and assisted reproductive techniques like IVF.",Medical,Reproductive Medicine
+164,Knee arthroscopy for diagnostic and therapeutic purposes to treat joint injuries.,Medical,Orthopedics
+165,Facial reconstruction after trauma or congenital malformations like cleft lip and palate.,Medical,Plastic Surgery
+166,Pediatric cardiology to address congenital heart defects and other heart conditions in children.,Medical,Pediatrics
+167,Fertility treatments including intrauterine insemination (IUI) and in-vitro fertilization (IVF).,Medical,Gynecology
+168,"Chronic kidney disease management through diet, medications, and possible dialysis.",Medical,Nephrology
+169,Postoperative pain management strategies including nerve blocks and patient-controlled analgesia (PCA).,Medical,Anesthesiology
+170,Acute stroke management including clot-busting medications and surgical interventions.,Medical,Emergency Medicine
+171,Transfusion therapy for treating severe anemia and blood disorders like thalassemia.,Medical,Hematology
+172,Rehabilitation and physical therapy following joint replacement surgeries.,Medical,Orthopedics
+173,Treatment for sleep disorders like insomnia and sleep apnea through medication and therapy.,Medical,Neurology
+174,Stent placement for patients with blocked coronary arteries to restore blood flow.,Medical,Cardiology
+175,Management of hospital-acquired infections (HAIs) through targeted antibiotics.,Medical,Infectious Diseases
+176,Microbiome analysis to study the relationship between gut bacteria and chronic diseases.,Medical,Pathology
+177,Palliative care strategies for cancer patients to manage symptoms and improve quality of life.,Medical,Oncology
+178,"Managing autoimmune diseases like Crohn's disease, lupus, and multiple sclerosis.",Medical,Internal Medicine
+179,Laser treatment for diabetic retinopathy and other vision-threatening conditions.,Medical,Ophthalmology
+180,Surgical excision of skin cancers and other malignant lesions to prevent metastasis.,Medical,Dermatology
+181,Hormonal treatments for male infertility and testosterone replacement therapy.,Medical,Endocrinology
+182,Surrogacy and egg/sperm donation for couples with fertility challenges.,Medical,Reproductive Medicine
+183,Total joint replacement for hip and knee arthritis patients with advanced degeneration.,Medical,Orthopedics
+184,Liposuction and body contouring surgeries for weight loss patients and those with body image concerns.,Medical,Plastic Surgery
+185,Managing kidney transplant recipients with immunosuppressive therapy to prevent organ rejection.,Medical,Nephrology
+186,Hernia repairs and bowel resections to treat gastrointestinal disorders.,Medical,General Surgery
+187,"Prenatal care for high-risk pregnancies, including gestational diabetes and preeclampsia.",Medical,Obstetrics
+188,Bone marrow biopsies and stem cell therapy for patients with leukemia and lymphoma.,Medical,Hematology
+189,"Emergency care for anaphylaxis, including the administration of epinephrine.",Medical,Emergency Medicine
+190,"Aesthetic breast surgery, including breast augmentation and lift procedures.",Medical,Plastic Surgery
+191,"Neonatal care for premature infants, focusing on respiratory support and feeding.",Medical,Pediatrics
+192,Managing polycystic kidney disease (PKD) through monitoring and supportive therapies.,Medical,Nephrology
+193,"Chronic disease management for conditions like asthma, COPD, and heart disease.",Medical,Internal Medicine
+194,Electrocardiogram (ECG) monitoring for heart rhythm analysis and diagnosis of arrhythmias.,Medical,Cardiology
+195,Magnetic resonance angiography (MRA) for imaging blood vessels and detecting blockages.,Medical,Radiology
+196,"Shoulder surgeries for rotator cuff injuries and labral tears, including arthroscopic techniques.",Medical,Orthopedics
+197,Vaccine administration for travelers to prevent diseases like malaria and yellow fever.,Medical,Infectious Diseases
+198,General anesthesia management for complex surgeries requiring full sedation.,Medical,Anesthesiology
+199,"Pelvic examinations and management of uterine fibroids, endometriosis, and menstrual irregularities.",Medical,Gynecology
+200,"Molecular testing for genetic disorders, including cystic fibrosis and Huntington's disease.",Medical,Pathology
+201,"Reconstructive surgery for burn victims, using skin grafts and tissue expansion.",Medical,Plastic Surgery
+202,Cartilage repair and reconstruction surgeries to treat knee and hip joint injuries.,Medical,Orthopedics
+203,"Disease prevention strategies, including lifestyle changes, screenings, and early detection methods.",Medical,Internal Medicine
+204,"Renal dialysis techniques, including hemodialysis and peritoneal dialysis for kidney failure patients.",Medical,Nephrology
+205,Trauma stabilization and management in a level I trauma center for severe injuries.,Medical,Emergency Medicine
+206,Use of anticoagulants for stroke prevention in patients with atrial fibrillation.,Medical,Cardiology
+207,"Management of anemia through iron supplementation, blood transfusions, and erythropoiesis-stimulating agents.",Medical,Hematology
+208,Use of targeted radiation therapy to treat localized tumors while minimizing damage to healthy tissue.,Medical,Oncology
+209,Management of epileptic seizures with antiepileptic drugs and lifestyle modifications.,Medical,Neurology
+210,"Facial plastic surgery for rejuvenation, including Botox, fillers, and facelifts.",Medical,Plastic Surgery
+211,Treatment of fungal infections like Candida and Aspergillus with antifungal medications.,Medical,Infectious Diseases
+212,"Adolescent care including mental health, substance abuse prevention, and reproductive health.",Medical,Pediatrics
+213,Routine prenatal check-ups to monitor fetal development and maternal health during pregnancy.,Medical,Obstetrics
+214,Diabetes management with insulin therapy and continuous glucose monitoring (CGM).,Medical,Endocrinology
+215,"Sports medicine to treat injuries like sprains, strains, and fractures in athletes.",Medical,Orthopedics
+216,Cardiac catheterization to diagnose and treat coronary artery diseases and heart valve problems.,Medical,Cardiology
+217,Management of migraines with medication and lifestyle adjustments for chronic sufferers.,Medical,Neurology
+218,Rehabilitation post hip replacement to improve range of motion and reduce pain.,Medical,Orthopedics
+219,Radiation therapy as a part of breast cancer treatment to destroy cancer cells.,Medical,Oncology
+220,Management of juvenile diabetes with insulin therapy and lifestyle modifications.,Medical,Pediatrics
+221,"Advanced life support for patients in respiratory failure, including mechanical ventilation.",Medical,Emergency Medicine
+222,Postoperative care with analgesics and monitoring for pain control following major surgeries.,Medical,Anesthesiology
+223,"Reconstructive procedures following traumatic injuries, such as facial fractures.",Medical,Plastic Surgery
+224,Non-invasive fibroid treatments using uterine artery embolization to reduce symptoms.,Medical,Gynecology
+225,Management of hyperthyroidism with antithyroid medications and radioactive iodine therapy.,Medical,Endocrinology
+226,Managing kidney stones with lithotripsy and dietary interventions to prevent recurrence.,Medical,Nephrology
+227,MRI imaging for soft tissue injuries like ligament and tendon tears.,Medical,Radiology
+228,Histopathological examination of tissue samples for cancer diagnosis and staging.,Medical,Pathology
+229,Use of antivirals for treating influenza and other seasonal viral infections.,Medical,Infectious Diseases
+230,"Management of dementia with cognitive therapies, medications, and patient support systems.",Medical,Geriatrics
+231,"Treatment of acne vulgaris with topical and systemic medications, including antibiotics and retinoids.",Medical,Dermatology
+232,"Immunization schedules for children to prevent diseases like pertussis, polio, and diphtheria.",Medical,Allergy & Immunology
+233,Treatment for clotting disorders like hemophilia using clotting factor replacement therapies.,Medical,Hematology
+234,Emergency surgical procedures to treat perforated appendicitis and gastrointestinal blockages.,Medical,General Surgery
+235,Diagnosis and management of chronic hypertension and associated cardiovascular risks.,Medical,Internal Medicine
+236,Prenatal screening for genetic conditions like Down syndrome using maternal blood tests.,Medical,Obstetrics
+237,Laser treatment for diabetic retinopathy to prevent vision loss in diabetic patients.,Medical,Ophthalmology
+238,Treatment of chronic sinusitis with medications and sinus surgery when necessary.,Medical,ENT
+239,Assisted reproductive techniques such as intrauterine insemination (IUI) for infertile couples.,Medical,Reproductive Medicine
+240,Heart valve replacement surgeries for patients with severe aortic stenosis or mitral regurgitation.,Medical,Cardiology
+241,Arthroscopic knee surgery to repair damaged cartilage and ligaments.,Medical,Orthopedics
+242,"Bone marrow biopsy to diagnose leukemia, lymphoma, and other blood cancers.",Medical,Oncology
+243,Botulinum toxin injections to treat chronic migraines and severe spasticity in neurological conditions.,Medical,Neurology
+244,Immunohistochemistry for the identification of cancer cell types and response to treatment.,Medical,Pathology
+245,Use of mammography to screen for early signs of breast cancer in asymptomatic women.,Medical,Radiology
+246,Treatment of bacterial pneumonia with broad-spectrum antibiotics and respiratory support.,Medical,Infectious Diseases
+247,Phototherapy for psoriasis using UVB light to reduce inflammation and skin scaling.,Medical,Dermatology
+248,"Laparoscopic surgeries for weight loss, such as gastric bypass and sleeve gastrectomy.",Medical,General Surgery
+249,"Chronic kidney disease management using blood pressure control, diabetes management, and diet.",Medical,Nephrology
+250,"Management of cardiac arrest with CPR, defibrillation, and advanced life support protocols.",Medical,Emergency Medicine
+251,"Reconstructive breast surgery post-mastectomy, including reconstruction with autologous tissue.",Medical,Plastic Surgery
+252,"Pediatric immunizations for measles, mumps, rubella, and varicella to protect against childhood diseases.",Medical,Pediatrics
+253,Management of polycystic ovary syndrome (PCOS) through hormonal therapies and lifestyle changes.,Medical,Endocrinology
+254,"Surgical fixation of fractures using plates, screws, and rods to restore bone alignment.",Medical,Orthopedics
+255,Antibiotic treatment for urinary tract infections (UTIs) caused by bacterial pathogens.,Medical,Infectious Diseases
+256,"Chemotherapy regimens for treating cancers like breast cancer, lymphoma, and leukemia.",Medical,Oncology
+257,"Management of metabolic syndrome, focusing on blood sugar, cholesterol, and hypertension control.",Medical,Internal Medicine
+258,"Molecular diagnostic testing for genetic mutations in cancers, such as BRCA1/2 in breast cancer.",Medical,Pathology
+259,Electrophysiological mapping and ablation for atrial fibrillation and other heart rhythm disorders.,Medical,Cardiology
+260,Egg retrieval and embryo transfer in in vitro fertilization (IVF) for infertile couples.,Medical,Reproductive Medicine
+261,"Total knee arthroplasty (TKA) for advanced osteoarthritis, restoring joint function.",Medical,Orthopedics
+262,Microsurgical reconstruction for patients with head and neck cancers after tumor removal.,Medical,Plastic Surgery
+263,"Screening for developmental disorders in infants, such as autism spectrum disorder (ASD).",Medical,Pediatrics
+264,Managing diabetic nephropathy with strict blood sugar control and nephroprotective medications.,Medical,Nephrology
+265,"Local anesthesia for minor surgical procedures like dental work, mole removal, and biopsies.",Medical,Anesthesiology
+266,Management of stroke patients with clot-busting agents (thrombolysis) within the first few hours.,Medical,Emergency Medicine
+267,"Transfusion therapy for patients with anemia, particularly those with sickle cell disease.",Medical,Hematology
+268,Treatment of spinal disc herniations with conservative therapies or decompressive surgeries.,Medical,Orthopedics
+269,Deep brain stimulation (DBS) for Parkinson's disease to alleviate tremors and improve motor control.,Medical,Neurology
+270,Transcatheter aortic valve replacement (TAVR) for patients with aortic stenosis who are not candidates for surgery.,Medical,Cardiology
+271,Prophylactic antibiotic use in surgical patients to prevent infections post-operatively.,Medical,Infectious Diseases
+272,Use of PCR (Polymerase Chain Reaction) testing to diagnose viral infections like HIV and COVID-19.,Medical,Pathology
+273,Immunotherapy for melanoma and lung cancer to enhance the body's immune response against tumors.,Medical,Oncology
+274,Endoscopic procedures for diagnosing and treating gastrointestinal conditions like ulcers.,Medical,General Surgery
+275,Managing acute kidney injury (AKI) through fluid management and treating underlying causes.,Medical,Nephrology
+276,Surgical procedures for reconstructing cleft lips and palates in children born with these conditions.,Medical,Plastic Surgery
+277,"Labor and delivery management, including cesarean sections when necessary for fetal or maternal safety.",Medical,Obstetrics
+278,Treatment of ovarian cysts and endometriosis with medications and surgical interventions.,Medical,Gynecology
+279,Laser hair removal and treatment of unwanted body hair through intense pulsed light (IPL).,Medical,Dermatology
+280,EpiPen use for emergency treatment of severe allergic reactions and anaphylaxis.,Medical,Allergy & Immunology
+281,"Blood cancer treatments such as chemotherapy, bone marrow transplant, and immunotherapy.",Medical,Hematology
+282,Joint injections with corticosteroids to reduce pain and inflammation in arthritic joints.,Medical,Orthopedics
+283,"Initial stabilization of trauma patients in the emergency department, including airway management.",Medical,Emergency Medicine
+284,Repair of facial fractures using titanium plates and screws to restore appearance and function.,Medical,Plastic Surgery
+285,"Dialysis modalities, including hemodialysis and peritoneal dialysis, to manage kidney failure.",Medical,Nephrology
+286,"Surgical excision of malignant tumors, including breast cancer and colorectal cancers.",Medical,General Surgery
+287,"Gastrointestinal disease management, including treating acid reflux and irritable bowel syndrome (IBS).",Medical,Internal Medicine
+288,Cataract surgery to remove cloudy lenses and replace them with artificial intraocular lenses (IOLs).,Medical,Ophthalmology
+289,Frozen embryo transfer in IVF to increase chances of successful pregnancy in women.,Medical,Reproductive Medicine
+290,"Plantar fasciitis treatment with physical therapy, stretching, and sometimes surgical intervention.",Medical,Orthopedics
+291,Scar revision surgery to improve the appearance of scars resulting from injury or surgery.,Medical,Plastic Surgery
+292,Pediatric cardiology for congenital heart defects like ventricular septal defects and patent ductus arteriosus.,Medical,Pediatrics
+293,"Sedation for endoscopic procedures, including colonoscopy and gastroscopy, to ensure patient comfort.",Medical,Anesthesiology
+294,Pacemaker implantation for patients with arrhythmias to regulate abnormal heart rhythms.,Medical,Cardiology
+295,Fracture healing using bone grafts and synthetic materials to enhance healing in complex fractures.,Medical,Orthopedics
+296,"Bone cancer treatments, including chemotherapy, surgery, and radiation to manage metastasis.",Medical,Oncology
+297,Cytogenetic testing to detect chromosomal abnormalities like Down syndrome and Turner syndrome.,Medical,Pathology
+298,Kidney transplantation and immunosuppressive therapy to prevent transplant rejection.,Medical,Nephrology
+299,Prophylactic treatment for HIV with antiretroviral drugs in high-risk populations.,Medical,Infectious Diseases
+300,Endoscopic retrograde cholangiopancreatography (ERCP) for treating bile duct obstructions.,Medical,General Surgery
+301,"Postpartum care, including monitoring for complications like hemorrhage or infection.",Medical,Obstetrics
+302,HPV vaccination to prevent cervical cancer and other HPV-related diseases.,Medical,Gynecology
+303,"Resuscitation efforts in cases of massive blood loss or shock, including blood transfusions and fluid replacement.",Medical,Emergency Medicine
+304,Body lift surgeries following massive weight loss to remove excess skin and improve body contours.,Medical,Plastic Surgery
+305,Heart failure management through medications like ACE inhibitors and diuretics to improve heart function.,Medical,Cardiology
+306,Chronic pain management in neuropathic conditions like fibromyalgia and diabetic neuropathy.,Medical,Neurology
+307,Non-surgical treatment of scoliosis using back braces to prevent further spinal curvature.,Medical,Orthopedics
+308,"Chemoradiation therapy for rectal cancer, combining chemotherapy with targeted radiation.",Medical,Oncology
+309,Management of childhood obesity through dietary counseling and physical activity programs.,Medical,Pediatrics
+310,Triage protocols in emergency departments to prioritize care for the most critically ill patients.,Medical,Emergency Medicine
+311,Epidural anesthesia for pain management during labor and delivery.,Medical,Anesthesiology
+312,Surgical correction of congenital deformities such as cleft lip and palate in children.,Medical,Plastic Surgery
+313,Treatment of uterine fibroids with non-invasive uterine artery embolization procedures.,Medical,Gynecology
+314,Hyperthyroidism management through beta-blockers and antithyroid medications.,Medical,Endocrinology
+315,Managing nephrotic syndrome with corticosteroids and immunosuppressive medications.,Medical,Nephrology
+316,CT scans to detect traumatic brain injuries and assess internal injuries in emergency settings.,Medical,Radiology
+317,Use of PCR testing to identify bacterial pathogens in suspected cases of pneumonia.,Medical,Pathology
+318,Long-term management of HIV/AIDS through antiretroviral therapy (ART) to suppress viral replication.,Medical,Infectious Diseases
+319,"Management of frailty syndrome in elderly patients, focusing on strength training and nutrition.",Medical,Geriatrics
+320,Photodynamic therapy for the treatment of actinic keratosis and non-melanoma skin cancers.,Medical,Dermatology
+321,Allergen-specific immunotherapy for patients with severe allergic rhinitis and asthma.,Medical,Allergy & Immunology
+322,"Blood transfusion therapies for patients with anemia, thalassemia, and sickle cell disease.",Medical,Hematology
+323,"Robotic-assisted surgeries for minimally invasive procedures, including gallbladder removal and hernia repair.",Medical,General Surgery
+324,Chronic obstructive pulmonary disease (COPD) management using bronchodilators and steroids.,Medical,Internal Medicine
+325,Management of preeclampsia with antihypertensive drugs and monitoring of maternal and fetal health.,Medical,Obstetrics
+326,Treatment of glaucoma with intraocular pressure-lowering medications and surgical interventions.,Medical,Ophthalmology
+327,Surgical correction of deviated septum to improve breathing and prevent chronic sinus infections.,Medical,ENT
+328,Sperm retrieval and artificial insemination for men with infertility issues.,Medical,Reproductive Medicine
+329,Angioplasty and stent placement to treat coronary artery disease and improve blood flow.,Medical,Cardiology
+330,Surgical repair of torn rotator cuffs and shoulder instability through arthroscopic techniques.,Medical,Orthopedics
+331,Targeted therapy for non-small cell lung cancer (NSCLC) using EGFR inhibitors and other biologic agents.,Medical,Oncology
+332,Management of multiple sclerosis with disease-modifying therapies to slow progression.,Medical,Neurology
+333,Diagnostic testing for blood cancers through flow cytometry to identify leukemias and lymphomas.,Medical,Pathology
+334,Fluoroscopy imaging for real-time observation during procedures such as joint injections and catheter placements.,Medical,Radiology
+335,"Prophylactic treatment for tuberculosis in individuals at high risk, including healthcare workers.",Medical,Infectious Diseases
+336,"Topical treatments for rosacea, including metronidazole and laser therapy.",Medical,Dermatology
+337,Laparoscopic sleeve gastrectomy as a treatment option for morbid obesity.,Medical,General Surgery
+338,Peritoneal dialysis as an alternative to hemodialysis for patients with chronic kidney failure.,Medical,Nephrology
+339,Management of acute pancreatitis with intravenous fluids and pain relief.,Medical,Emergency Medicine
+340,"Reconstructive procedures for hand injuries, including tendon and ligament repair.",Medical,Plastic Surgery
+341,"Vaccinations for preventing diseases like polio, chickenpox, and diphtheria in children.",Medical,Pediatrics
+342,Treatment of Cushing's syndrome with medications to control cortisol production and tumor removal.,Medical,Endocrinology
+343,Spinal decompression surgery to relieve pressure on the spinal cord and nerves.,Medical,Orthopedics
+344,Treatment of MRSA infections with appropriate antibiotics after bacterial culture and sensitivity testing.,Medical,Infectious Diseases
+345,Bone marrow transplant for treating hematologic cancers like leukemia and lymphoma.,Medical,Oncology
+346,"Comprehensive care for chronic liver diseases, including hepatitis C and cirrhosis.",Medical,Internal Medicine
+347,Diagnostic imaging of brain tumors using MRIs to assess tumor location and size.,Medical,Pathology
+348,Use of implantable cardioverter-defibrillators (ICDs) for preventing sudden cardiac death in high-risk patients.,Medical,Cardiology
+349,Ovulation induction using medications like Clomid and injectable hormones for fertility treatment.,Medical,Reproductive Medicine
+350,"Joint replacement surgery, including hip and knee replacements, for osteoarthritis patients.",Medical,Orthopedics
+351,"Facial trauma repair after accidents or injuries, including fractures of the cheekbones and jaw.",Medical,Plastic Surgery
+352,Early screening for developmental disabilities and autism spectrum disorder (ASD) in children.,Medical,Pediatrics
+353,"Management of acute kidney injury (AKI) through hydration, electrolytes, and addressing the underlying causes.",Medical,Nephrology
+354,"General anesthesia for major surgeries, including open-heart surgery and organ transplants.",Medical,Anesthesiology
+355,Treatment of severe allergic reactions using epinephrine and antihistamines in the emergency room.,Medical,Emergency Medicine
+356,"Bone marrow biopsy for diagnosing hematologic conditions like leukemia, lymphoma, and anemia.",Medical,Hematology
+357,Physical therapy post-surgery for joint replacement and spine surgeries to restore function.,Medical,Orthopedics
+358,Treatment of epilepsy with anticonvulsant medications to control seizures.,Medical,Neurology
+359,"Treatment of atrial fibrillation with anticoagulants, beta-blockers, and possible electrical cardioversion.",Medical,Cardiology
+360,Hepatitis B vaccination to prevent liver damage and reduce the risk of liver cancer.,Medical,Infectious Diseases
+361,Use of molecular techniques to detect genetic mutations in cancers for personalized treatment.,Medical,Pathology
+362,Chemotherapy regimens for ovarian cancer to shrink tumors and prevent recurrence.,Medical,Oncology
+363,"Gastrectomy procedures for gastric cancer, involving partial or complete removal of the stomach.",Medical,General Surgery
+364,"Kidney transplant procedures, including donor matching, organ procurement, and post-transplant care.",Medical,Nephrology
+365,"Trauma care for burns, including wound care, pain management, and fluid resuscitation.",Medical,Emergency Medicine
+366,Abdominoplasty (tummy tuck) to remove excess skin and tighten the abdominal muscles.,Medical,Plastic Surgery
+367,Treatment for respiratory syncytial virus (RSV) infections in infants with nebulized medications.,Medical,Pediatrics
+368,Insulin pump therapy for patients with Type 1 diabetes to manage blood glucose levels.,Medical,Endocrinology
+369,Hip arthroscopy for diagnosing and treating conditions such as labral tears and hip impingement.,Medical,Orthopedics
+370,Management of sexually transmitted infections (STIs) with antibiotics and antivirals.,Medical,Infectious Diseases
+371,Radiotherapy for prostate cancer to destroy cancer cells and reduce tumor size.,Medical,Oncology
+372,"Management of chronic conditions like diabetes, hypertension, and hyperlipidemia through lifestyle and medications.",Medical,Internal Medicine
+373,Microscopic analysis of biopsy samples for diagnosing liver diseases such as hepatitis and cirrhosis.,Medical,Pathology
+374,Coronary artery bypass grafting (CABG) for severe coronary artery disease to restore blood flow.,Medical,Cardiology
+375,Assisted reproductive techniques such as egg freezing for fertility preservation in women.,Medical,Reproductive Medicine
+376,Management of osteoporosis in post-menopausal women through calcium and vitamin D supplementation.,Medical,Orthopedics
+377,Liposuction procedures for fat removal and body contouring in aesthetic surgery.,Medical,Plastic Surgery
+378,"Neonatal care for preterm infants, focusing on respiratory support and nutrition.",Medical,Pediatrics
+379,"Peritoneal dialysis for kidney disease management, using the lining of the abdomen to filter waste.",Medical,Nephrology
+380,Laparoscopic appendectomy for the removal of an inflamed appendix.,Medical,General Surgery
+381,Stabilizing patients with gunshot wounds through trauma surgery and intensive care.,Medical,Emergency Medicine
+382,Breast reconstruction surgery post-mastectomy using implants or autologous tissue.,Medical,Plastic Surgery
+383,"Management of pediatric asthma using inhalers, bronchodilators, and steroids to control symptoms.",Medical,Pediatrics
+384,Thyroidectomy for thyroid cancer or hyperthyroidism to remove all or part of the thyroid gland.,Medical,Endocrinology
+385,Knee replacement surgery for patients with severe arthritis or joint degeneration.,Medical,Orthopedics
+386,Management of Lyme disease with antibiotics like doxycycline to treat tick-borne infections.,Medical,Infectious Diseases
+387,Immunotherapy for lung cancer to boost the immune system’s ability to fight cancer cells.,Medical,Oncology
+388,Implantation of a left ventricular assist device (LVAD) for heart failure patients waiting for a transplant.,Medical,Cardiology
+389,Management of Alzheimer's disease through cholinesterase inhibitors and cognitive therapy.,Medical,Neurology
+390,"Rehabilitation after joint replacement surgery, focusing on physical therapy and mobility.",Medical,Orthopedics
+391,Chemotherapy combined with targeted therapy for treating metastatic colon cancer.,Medical,Oncology
+392,"Screening for developmental delays in children, with interventions such as speech therapy or occupational therapy.",Medical,Pediatrics
+393,Acute management of traumatic brain injury (TBI) with CT scans and neurological monitoring.,Medical,Emergency Medicine
+394,"Regional anesthesia for lower limb surgeries, such as hip replacement and knee arthroscopy.",Medical,Anesthesiology
+395,Facial plastic surgery for facial paralysis caused by trauma or neurological disorders.,Medical,Plastic Surgery
+396,"Hysterectomy procedures for the treatment of fibroids, endometriosis, and uterine cancer.",Medical,Gynecology
+397,"Insulin therapy for Type 2 diabetes, including basal and bolus insulin regimens.",Medical,Endocrinology
+398,Management of nephrotic syndrome in children with corticosteroids and supportive care.,Medical,Nephrology
+399,"X-rays for diagnosing fractures, bone infections, and arthritis in joints.",Medical,Radiology
+400,Molecular testing for identifying genetic mutations in lung cancer to guide treatment decisions.,Medical,Pathology
+401,Management of sexually transmitted infections (STIs) with antibiotics and antivirals.,Medical,Infectious Diseases
+402,Cognitive assessments and interventions for patients with mild cognitive impairment (MCI) and dementia.,Medical,Geriatrics
+403,"Cryotherapy for the treatment of warts, precancerous lesions, and actinic keratosis.",Medical,Dermatology
+404,Testing for food allergies using skin prick tests or blood tests for IgE antibodies.,Medical,Allergy & Immunology
+405,Management of iron-deficiency anemia with oral or intravenous iron supplementation.,Medical,Hematology
+406,"Bariatric surgery for severe obesity, including gastric bypass and sleeve gastrectomy.",Medical,General Surgery
+407,"Chronic disease management for hypertension, diabetes, and hyperlipidemia through lifestyle changes and medications.",Medical,Internal Medicine
+408,Management of ectopic pregnancy with surgery or methotrexate treatment to preserve fertility.,Medical,Obstetrics
+409,"Laser eye surgery (LASIK) for vision correction to treat nearsightedness, farsightedness, and astigmatism.",Medical,Ophthalmology
+410,"Treatment of snoring and sleep apnea with CPAP therapy, lifestyle changes, and surgery.",Medical,ENT
+411,Embryo cryopreservation for fertility preservation in women undergoing cancer treatment.,Medical,Reproductive Medicine
+412,Management of arrhythmias with medications like beta-blockers and antiarrhythmic drugs.,Medical,Cardiology
+413,Spinal fusion surgery for patients with severe degenerative disc disease or spinal deformities.,Medical,Orthopedics
+414,Immunotherapy for melanoma and lung cancer to help the immune system target and destroy cancer cells.,Medical,Oncology
+415,Treatment of chronic migraines with preventive medications and abortive therapies.,Medical,Neurology
+416,Use of electron microscopy for detailed analysis of tissue samples in rare diseases like glomerulonephritis.,Medical,Pathology
+417,Bone density testing (DEXA scan) for diagnosing and monitoring osteoporosis in postmenopausal women.,Medical,Radiology
+418,Treatment of tuberculosis with a combination of antibiotics such as rifampin and isoniazid.,Medical,Infectious Diseases
+419,Laser treatment for age spots and other skin discolorations associated with sun damage.,Medical,Dermatology
+420,Removal of the gallbladder (cholecystectomy) for patients with gallstones and related complications.,Medical,General Surgery
+421,"Chronic kidney disease management through strict blood pressure control, ACE inhibitors, and lifestyle changes.",Medical,Nephrology
+422,Advanced cardiac life support (ACLS) in managing patients with acute myocardial infarction or arrhythmias.,Medical,Emergency Medicine
+423,Reconstruction of the face after traumatic injuries using microvascular free tissue transfer techniques.,Medical,Plastic Surgery
+424,Management of juvenile idiopathic arthritis with NSAIDs and biologic therapies.,Medical,Pediatrics
+425,Thyroid function testing and management of hypothyroidism with synthetic thyroid hormone (levothyroxine).,Medical,Endocrinology
+426,Rotator cuff repair surgery for patients with shoulder injuries or tears.,Medical,Orthopedics
+427,"Use of antivirals for treating HIV/AIDS, including Truvada and other ART drugs.",Medical,Infectious Diseases
+428,Bone marrow biopsy for diagnosing hematologic malignancies like lymphoma and leukemia.,Medical,Oncology
+429,"Management of chronic liver diseases such as cirrhosis and fatty liver disease with diet, medications, and monitoring.",Medical,Internal Medicine
+430,"Histological examination of biopsies to diagnose skin cancer types, such as basal cell carcinoma and melanoma.",Medical,Pathology
+431,Percutaneous coronary intervention (PCI) with stent placement for treating acute coronary syndrome.,Medical,Cardiology
+432,IUI (intrauterine insemination) for infertile couples as a less invasive fertility treatment.,Medical,Reproductive Medicine
+433,Total shoulder replacement surgery for patients with severe shoulder arthritis and limited mobility.,Medical,Orthopedics
+434,Treatment of severe burns with skin grafts and wound care management.,Medical,Plastic Surgery
+435,Managing childhood epilepsy with anticonvulsant medications and patient education.,Medical,Pediatrics
+436,"Dialysis for patients with end-stage renal disease (ESRD), including hemodialysis and peritoneal dialysis.",Medical,Nephrology
+437,"Sedation for endoscopic procedures, such as colonoscopy and gastroscopy, to reduce patient discomfort.",Medical,Anesthesiology
+438,"Trauma care for blunt force injuries, including fractures, internal bleeding, and soft tissue damage.",Medical,Emergency Medicine
+439,Use of blood thinners (anticoagulants) to manage conditions such as deep vein thrombosis (DVT) and pulmonary embolism.,Medical,Hematology
+440,"Management of sprains and strains with rest, ice, compression, and elevation (R.I.C.E.).",Medical,Orthopedics
+441,Parkinson’s disease management with dopamine agonists and physical therapy.,Medical,Neurology
+442,"Management of congestive heart failure with medications like diuretics, ACE inhibitors, and beta-blockers.",Medical,Cardiology
+443,"Vaccination programs for preventing childhood diseases like measles, mumps, and rubella.",Medical,Infectious Diseases
+444,"Molecular diagnostics for detecting cancer mutations, such as HER2 in breast cancer and KRAS in colon cancer.",Medical,Pathology
+445,Use of targeted therapies in non-small cell lung cancer (NSCLC) with drugs like erlotinib and afatinib.,Medical,Oncology
+446,Surgical removal of the appendix (appendectomy) in patients with appendicitis.,Medical,General Surgery
+447,"Kidney stone management through medications, shockwave lithotripsy, and surgical removal.",Medical,Nephrology
+448,Facial reconstructive surgery for congenital anomalies such as cleft lip and palate.,Medical,Plastic Surgery
+449,Management of croup in young children with steroids and nebulized epinephrine.,Medical,Pediatrics
+450,Management of polycystic ovary syndrome (PCOS) with hormonal treatments and lifestyle changes.,Medical,Endocrinology
+451,Arthroscopic knee surgery to remove damaged cartilage or repair torn ligaments.,Medical,Orthopedics
+452,Prevention and treatment of influenza through vaccination and antiviral drugs like oseltamivir.,Medical,Infectious Diseases
+453,Chemotherapy combined with stem cell transplant for patients with leukemia and other blood cancers.,Medical,Oncology
+454,"Screening for metabolic syndrome with tests for blood pressure, cholesterol, blood sugar, and waist circumference.",Medical,Internal Medicine
+455,"Immunohistochemistry for detecting specific cancer markers, such as ER/PR in breast cancer.",Medical,Pathology
+456,Management of atrial fibrillation with anticoagulants to prevent stroke and rate control medications.,Medical,Cardiology
+457,Fertility preservation through egg and sperm freezing for cancer patients.,Medical,Reproductive Medicine
+458,"Fracture reduction and stabilization for broken bones, including the use of pins, plates, and screws.",Medical,Orthopedics
+459,"Reconstructive surgery after breast cancer surgery, including the use of implants or autologous tissue.",Medical,Plastic Surgery
+460,Treatment of ear infections in children with antibiotics and pain management.,Medical,Pediatrics
+461,Management of end-stage renal disease (ESRD) with dialysis and kidney transplant options.,Medical,Nephrology
+462,General anesthesia for major surgeries such as open-heart surgery and abdominal surgeries.,Medical,Anesthesiology
+463,Stabilizing patients with severe trauma or burns in the emergency department through advanced trauma care.,Medical,Emergency Medicine
+464,Platelet-rich plasma (PRP) therapy for treating chronic joint pain and ligament injuries.,Medical,Hematology
+465,"Hip resurfacing surgery as an alternative to total hip replacement for younger, active patients.",Medical,Orthopedics
+466,Treatment of sleep disorders like insomnia and narcolepsy with behavioral therapy and medications.,Medical,Neurology
+467,"Management of ischemic heart disease through lifestyle changes, medications, and surgical interventions like bypass.",Medical,Cardiology
+468,Management of chronic hepatitis C with antiviral treatments like direct-acting antivirals (DAAs).,Medical,Infectious Diseases
+469,"Genetic testing for inherited disorders, such as sickle cell disease, cystic fibrosis, and hemophilia.",Medical,Pathology
+470,Management of heart attack with clot-busting medications like thrombolytics and percutaneous coronary intervention (PCI).,Medical,Cardiology
+471,"Stroke rehabilitation through physical therapy, speech therapy, and cognitive therapy after ischemic or hemorrhagic stroke.",Medical,Neurology
+472,Use of orthotic devices like knee braces to stabilize joints after injury or surgery.,Medical,Orthopedics
+473,Use of pembrolizumab and nivolumab in the treatment of metastatic melanoma through immune checkpoint inhibition.,Medical,Oncology
+474,"Monitoring and managing pediatric asthma with inhalers, corticosteroids, and nebulized treatments.",Medical,Pediatrics
+475,Advanced trauma care for managing penetrating injuries and internal hemorrhage in trauma patients.,Medical,Emergency Medicine
+476,Conscious sedation with benzodiazepines and opioids for outpatient procedures like colonoscopy.,Medical,Anesthesiology
+477,Breast reduction surgery to alleviate physical and psychological symptoms in women with large breasts.,Medical,Plastic Surgery
+478,"Use of hysteroscopy for the diagnosis and treatment of abnormal bleeding, polyps, or fibroids.",Medical,Gynecology
+479,Management of diabetes insipidus with vasopressin or desmopressin to reduce excessive urination.,Medical,Endocrinology
+480,"Treatment of chronic kidney disease with diet modifications, antihypertensive medications, and possible dialysis.",Medical,Nephrology
+481,"Mammography for early detection of breast cancer in women, including high-risk screening.",Medical,Radiology
+482,Histopathological analysis of biopsies to diagnose and stage prostate cancer using Gleason scores.,Medical,Pathology
+483,"Management of pneumonia through antibiotics, oxygen therapy, and respiratory support.",Medical,Infectious Diseases
+484,"Interventions for osteoporosis in elderly patients, including calcium and vitamin D supplementation and bisphosphonates.",Medical,Geriatrics
+485,"Treatment of eczema with topical corticosteroids, moisturizers, and immunomodulators.",Medical,Dermatology
+486,Management of severe allergic reactions through epinephrine injection and antihistamines.,Medical,Allergy & Immunology
+487,"Chemotherapy for leukemia and lymphoma, including induction therapy, consolidation, and maintenance.",Medical,Hematology
+488,Laparoscopic cholecystectomy for the removal of the gallbladder due to gallstones or inflammation.,Medical,General Surgery
+489,Managing complex multimorbidity in elderly patients with polypharmacy and comprehensive care.,Medical,Internal Medicine
+490,"Routine prenatal care including ultrasounds, blood tests, and monitoring fetal health.",Medical,Obstetrics
+491,"Treatment of diabetic retinopathy with laser therapy, anti-VEGF injections, and vitreoretinal surgery.",Medical,Ophthalmology
+492,Surgical treatment for chronic sinusitis through functional endoscopic sinus surgery (FESS).,Medical,ENT
+493,Fertility treatment with in vitro fertilization (IVF) to assist with conception in couples with infertility.,Medical,Reproductive Medicine
+494,Treatment of atrial fibrillation with catheter ablation and anticoagulants to prevent stroke.,Medical,Cardiology
+495,"Treatment of ligament injuries, including ACL reconstruction surgery and physical therapy.",Medical,Orthopedics
+496,Use of carboplatin and paclitaxel in chemotherapy regimens for ovarian cancer.,Medical,Oncology
+497,Management of Parkinson’s disease through dopaminergic medications like levodopa and deep brain stimulation.,Medical,Neurology
+498,Pathological examination of gastric biopsies to detect Helicobacter pylori infection and gastric cancer.,Medical,Pathology
+499,"MRI for brain tumor detection, spine pathology, and joint injuries to identify soft tissue damage.",Medical,Radiology
+500,Antibiotic therapy for urinary tract infections (UTIs) using ciprofloxacin or nitrofurantoin.,Medical,Infectious Diseases
+501,"Topical treatments for psoriasis, including corticosteroids, calcipotriene, and biologic therapies.",Medical,Dermatology
+502,Hernia repair surgery using mesh implants or laparoscopic techniques to repair abdominal wall defects.,Medical,General Surgery
+503,"Treatment of acute kidney injury (AKI) with intravenous fluids, electrolyte balance, and dialysis if needed.",Medical,Nephrology
+504,"Trauma management including airway support, fluid resuscitation, and managing head injuries in accident victims.",Medical,Emergency Medicine
+505,Reconstructive surgery for congenital cleft lips and palates in infants to restore function and appearance.,Medical,Plastic Surgery
+506,"Management of childhood obesity with weight control strategies including dietary changes, exercise, and behavioral therapy.",Medical,Pediatrics
+507,Thyroidectomy for thyroid cancer or hyperthyroidism when medication fails to control the condition.,Medical,Endocrinology
+508,Joint replacement surgeries like knee and hip arthroplasty to relieve pain and improve mobility in osteoarthritis.,Medical,Orthopedics
+509,Management of influenza with antiviral medications like oseltamivir and preventive flu vaccination.,Medical,Infectious Diseases
+510,Radiation therapy combined with surgery for treatment of non-small cell lung cancer.,Medical,Oncology
+511,"Screening and management of risk factors for cardiovascular diseases such as hypertension, smoking, and high cholesterol.",Medical,Internal Medicine
+512,"Genetic analysis of tumor samples to guide cancer treatment options, such as HER2 status in breast cancer.",Medical,Pathology
+513,Cardiac rehabilitation after myocardial infarction (heart attack) to improve recovery and prevent further heart issues.,Medical,Cardiology
+514,Assisted reproductive technologies like ICSI (intracytoplasmic sperm injection) for male infertility.,Medical,Reproductive Medicine
+515,"Spinal cord injury management with surgical interventions, physical therapy, and assistive devices.",Medical,Orthopedics
+516,Liposuction procedures to remove excess fat deposits and contour body shape for cosmetic purposes.,Medical,Plastic Surgery
+517,"Immunization for children against measles, mumps, rubella, chickenpox, and other preventable diseases.",Medical,Pediatrics
+518,Dialysis treatments (hemodialysis and peritoneal dialysis) for patients with end-stage renal disease.,Medical,Nephrology
+519,Spinal anesthesia for lower body surgeries like hip replacements and cesarean sections.,Medical,Anesthesiology
+520,Management of allergic reactions and anaphylaxis using epinephrine and supportive care.,Medical,Emergency Medicine
+521,"Bone marrow transplant for patients with leukemia, lymphoma, or aplastic anemia.",Medical,Hematology
+522,"Treatment of fractures with closed reduction, casts, or open reduction and internal fixation (ORIF) for severe fractures.",Medical,Orthopedics
+523,Management of sleep disorders like sleep apnea using CPAP therapy or surgical options.,Medical,Neurology
+524,Percutaneous coronary interventions (PCI) to open blocked coronary arteries using stents.,Medical,Cardiology
+525,Prophylactic antibiotics for preventing infections in patients with prosthetic implants.,Medical,Infectious Diseases
+526,"Molecular testing for genetic conditions such as cystic fibrosis, sickle cell anemia, and hemophilia.",Medical,Pathology
+527,"Chemotherapy regimens for breast cancer including doxorubicin, cyclophosphamide, and paclitaxel.",Medical,Oncology
+528,"Comprehensive care for hypertension, diabetes, and obesity in managing cardiovascular health.",Medical,Internal Medicine
+529,Bariatric surgeries like gastric bypass or sleeve gastrectomy for managing morbid obesity.,Medical,General Surgery
+530,Use of erythropoiesis-stimulating agents to manage anemia in chronic kidney disease patients.,Medical,Nephrology
+531,"Reconstructive surgery for traumatic injuries including facial fractures, burns, and soft tissue damage.",Medical,Plastic Surgery
+532,Early diagnosis and intervention of autism spectrum disorder through behavioral therapy and social skills training.,Medical,Pediatrics
+533,Management of hyperparathyroidism with surgery or medication to control calcium levels in the blood.,Medical,Endocrinology
+534,Arthroscopic knee surgery for meniscus tears and ligament injuries to minimize recovery time.,Medical,Orthopedics
+535,Management of hepatitis B and C with antiviral therapies to reduce liver damage.,Medical,Infectious Diseases
+536,Use of monoclonal antibodies like trastuzumab for targeted therapy in HER2-positive breast cancer.,Medical,Oncology
+537,"Monitoring and management of chronic conditions such as asthma, hypertension, and COPD.",Medical,Internal Medicine
+538,Use of genetic testing for inherited conditions like BRCA1/BRCA2 mutations in breast cancer patients.,Medical,Pathology
+539,Use of pacemakers to treat bradycardia and regulate heart rhythms in patients with heart block.,Medical,Cardiology
+540,Fertility preservation for cancer patients through sperm or egg freezing before chemotherapy treatment.,Medical,Reproductive Medicine
+541,Surgical management of spinal disc herniation through discectomy or laminectomy.,Medical,Orthopedics
+542,Reconstructive breast surgery after mastectomy using implants or autologous tissue.,Medical,Plastic Surgery
+543,Management of pediatric pneumonia with antibiotics and supportive respiratory care.,Medical,Pediatrics
+544,Renal transplant procedures to treat end-stage renal disease and improve quality of life.,Medical,Nephrology
+545,General anesthesia protocols for open-heart surgeries and major organ transplants.,Medical,Anesthesiology
+546,"Managing major trauma cases including head, neck, and abdominal injuries with immediate life-saving procedures.",Medical,Emergency Medicine
+547,Treatment of hemophilia with clotting factor concentrates to prevent bleeding episodes.,Medical,Hematology
+548,Total hip replacement surgeries for patients with severe hip osteoarthritis and joint degeneration.,Medical,Orthopedics
+549,"Treatment of migraines and cluster headaches with triptans, beta-blockers, and preventative therapies.",Medical,Neurology
+550,"Management of heart failure with medications like ACE inhibitors, beta-blockers, and diuretics.",Medical,Cardiology
+551,Viral load monitoring and management of HIV/AIDS through combination antiretroviral therapy (ART).,Medical,Infectious Diseases
+552,Flow cytometry to diagnose and classify blood cancers such as leukemia and lymphoma.,Medical,Pathology
+553,Use of radiotherapy and chemotherapy to treat head and neck cancers and improve patient outcomes.,Medical,Oncology
+554,"Management of congestive heart failure (CHF) with diuretics, ACE inhibitors, and lifestyle modifications.",Medical,Cardiology
+555,Diagnosis and management of multiple sclerosis (MS) using disease-modifying therapies and symptom management.,Medical,Neurology
+556,Total knee replacement surgery for patients suffering from severe osteoarthritis and knee degeneration.,Medical,Orthopedics
+557,Use of targeted therapies like imatinib for chronic myeloid leukemia (CML) to inhibit abnormal cell growth.,Medical,Oncology
+558,Early intervention in developmental disabilities such as autism spectrum disorder with behavior therapy and speech therapy.,Medical,Pediatrics
+559,Management of stroke with clot-busting medications and mechanical thrombectomy to restore blood flow.,Medical,Emergency Medicine
+560,Spinal anesthesia for cesarean sections and lower limb surgeries to provide pain relief during surgery.,Medical,Anesthesiology
+561,"Reconstructive surgery for breast cancer patients, including mastectomy and breast reconstruction using implants.",Medical,Plastic Surgery
+562,Laparoscopic surgery for the diagnosis and treatment of endometriosis and pelvic adhesions.,Medical,Gynecology
+563,Managing hypothyroidism with synthetic thyroid hormone (levothyroxine) and monitoring TSH levels.,Medical,Endocrinology
+564,Managing glomerulonephritis with corticosteroids and immunosuppressive medications to reduce inflammation.,Medical,Nephrology
+565,"CT scan for diagnosing abdominal and pelvic conditions like appendicitis, kidney stones, and cancers.",Medical,Radiology
+566,Histopathological examination of lung biopsies for diagnosing non-small cell lung cancer (NSCLC).,Medical,Pathology
+567,Management of HIV infection with combination antiretroviral therapy (ART) to reduce viral load and improve quality of life.,Medical,Infectious Diseases
+568,Comprehensive geriatric assessment to address multimorbidity and frailty in elderly patients.,Medical,Geriatrics
+569,"Topical treatments for acne vulgaris including benzoyl peroxide, retinoids, and antibiotics.",Medical,Dermatology
+570,"Immunotherapy for patients with severe allergies to pollen, dust mites, and insect stings.",Medical,Allergy & Immunology
+571,"Management of sickle cell anemia with hydroxyurea, blood transfusions, and pain management.",Medical,Hematology
+572,Appendectomy for the surgical removal of the appendix in cases of acute appendicitis.,Medical,General Surgery
+573,Management of hyperlipidemia with statins and lifestyle changes to reduce cardiovascular risk.,Medical,Internal Medicine
+574,"Prenatal care for high-risk pregnancies, including regular ultrasounds, blood tests, and blood pressure monitoring.",Medical,Obstetrics
+575,Surgical management of cataracts through phacoemulsification and intraocular lens implantation.,Medical,Ophthalmology
+576,Management of otitis media (middle ear infection) with antibiotics and pain relief.,Medical,ENT
+577,Use of ovulation induction medications like clomiphene citrate in the treatment of infertility in women.,Medical,Reproductive Medicine
+578,"Management of atrial fibrillation with anticoagulants, beta-blockers, and rhythm control medications.",Medical,Cardiology
+579,Rehabilitation after total hip replacement surgery to restore joint function and improve mobility.,Medical,Orthopedics
+580,Radiation therapy for prostate cancer with external beam radiation and brachytherapy.,Medical,Oncology
+581,Management of epilepsy with antiepileptic drugs (AEDs) like valproic acid and carbamazepine.,Medical,Neurology
+582,Use of polymerase chain reaction (PCR) for diagnosing infectious diseases like tuberculosis and HIV.,Medical,Pathology
+583,"Magnetic resonance imaging (MRI) for brain and spinal cord conditions like tumors, herniated discs, and stroke.",Medical,Radiology
+584,"Vaccination programs for children to prevent diseases like polio, diphtheria, and tetanus.",Medical,Infectious Diseases
+585,"Cryotherapy for the removal of warts, precancerous lesions, and actinic keratosis.",Medical,Dermatology
+586,Bariatric surgery (gastric bypass or sleeve gastrectomy) for the management of morbid obesity.,Medical,General Surgery
+587,"Dialysis for patients with end-stage renal disease (ESRD), including hemodialysis and peritoneal dialysis.",Medical,Nephrology
+588,"Advanced life support (ALS) protocols for cardiac arrest patients, including defibrillation and drug administration.",Medical,Emergency Medicine
+589,Facial reconstruction surgery for patients with traumatic injuries or congenital facial deformities.,Medical,Plastic Surgery
+590,"Management of childhood asthma with inhaled corticosteroids, bronchodilators, and allergy testing.",Medical,Pediatrics
+591,Treatment of type 2 diabetes with oral medications like metformin and insulin therapy.,Medical,Endocrinology
+592,"Surgical intervention for fractures with the use of plates, screws, and rods to stabilize broken bones.",Medical,Orthopedics
+593,"Antibiotic therapy for bacterial infections like pneumonia, strep throat, and urinary tract infections (UTIs).",Medical,Infectious Diseases
+594,Chemotherapy combined with immunotherapy for advanced melanoma and non-small cell lung cancer.,Medical,Oncology
+595,"Managing chronic conditions such as hypertension, diabetes, and hyperlipidemia with pharmacological and non-pharmacological approaches.",Medical,Internal Medicine
+596,"Use of immunohistochemistry to detect specific cancer markers, like HER2 in breast cancer.",Medical,Pathology
+597,Use of stents for treating coronary artery disease through percutaneous coronary interventions (PCI).,Medical,Cardiology
+598,Artificial insemination (AI) for couples facing male infertility issues or unexplained infertility.,Medical,Reproductive Medicine
+599,Use of arthroscopic surgery for the repair of torn ligaments and cartilage in joints like the knee and shoulder.,Medical,Orthopedics
+600,Liposuction procedures to reduce localized fat deposits and contour the body.,Medical,Plastic Surgery
+601,"Routine vaccination schedules for children to prevent diseases like chickenpox, measles, and mumps.",Medical,Pediatrics
+602,"Management of polycystic kidney disease through blood pressure control, pain management, and eventual kidney transplantation.",Medical,Nephrology
+603,Regional anesthesia for orthopedic surgeries like hip and knee replacements to numb only the surgical site.,Medical,Anesthesiology
+604,"Trauma care for gunshot wounds, fractures, and internal bleeding in accident victims.",Medical,Emergency Medicine
+605,"Blood transfusions for patients with severe anemia, blood loss, or hematological disorders.",Medical,Hematology
+606,"Spinal surgery for herniated discs, spinal stenosis, or scoliosis, aiming to reduce pain and improve mobility.",Medical,Orthopedics
+607,Management of amyotrophic lateral sclerosis (ALS) with supportive therapies and medications like riluzole.,Medical,Neurology
+608,"Management of hypertension with ACE inhibitors, diuretics, and lifestyle modifications to prevent heart disease.",Medical,Cardiology
+609,Treatment of bacterial infections like sepsis with intravenous antibiotics and fluid resuscitation.,Medical,Infectious Diseases
+610,"Genetic testing to detect inherited conditions like Huntington's disease, cystic fibrosis, and sickle cell anemia.",Medical,Pathology
+611,Use of targeted therapy for HER2-positive breast cancer with monoclonal antibodies like trastuzumab.,Medical,Oncology
+612,Treatment of gout with urate-lowering drugs like allopurinol and colchicine for pain relief.,Medical,Internal Medicine
+613,"Treatment of colorectal cancer with surgical resection, chemotherapy, and radiation therapy.",Medical,General Surgery
+614,Renal transplant for patients with end-stage renal disease who are candidates for a kidney transplant.,Medical,Nephrology
+615,Burn reconstruction surgery to restore function and aesthetics following severe burns or scarring.,Medical,Plastic Surgery
+616,Treatment of pediatric infections like respiratory syncytial virus (RSV) and rotavirus through antiviral medications and vaccines.,Medical,Pediatrics
+617,Management of adrenal insufficiency with hormone replacement therapy such as hydrocortisone.,Medical,Endocrinology
+618,Management of scoliosis with bracing or surgery to correct spinal deformities.,Medical,Orthopedics
+619,Management of malaria with antimalarial drugs like chloroquine and artemisinin-based combination therapies.,Medical,Infectious Diseases
+620,"Use of immunotherapy in treating cancers like melanoma, lung cancer, and renal cell carcinoma.",Medical,Oncology
+621,Screening for colorectal cancer through colonoscopy in patients over 50 years of age or those with a family history.,Medical,Internal Medicine
+622,"Cytogenetic analysis for detecting chromosomal abnormalities in cancer cells, such as Philadelphia chromosome in CML.",Medical,Pathology
+623,Percutaneous transluminal coronary angioplasty (PTCA) to treat blocked arteries and restore blood flow.,Medical,Cardiology
+624,"Cryopreservation of sperm, eggs, or embryos for fertility preservation before cancer treatment.",Medical,Reproductive Medicine
+625,Use of platelet-rich plasma (PRP) therapy for musculoskeletal injuries like tendonitis and osteoarthritis.,Medical,Orthopedics
+626,"Facial plastic surgery for aesthetic improvements, including rhinoplasty and facelifts.",Medical,Plastic Surgery
+627,Early screening for autism spectrum disorder (ASD) in young children using developmental milestones.,Medical,Pediatrics
+628,Use of erythropoiesis-stimulating agents for anemia in chronic kidney disease (CKD) patients.,Medical,Nephrology
+629,"General anesthesia for elective surgeries like orthopedic procedures, abdominal surgeries, and cesarean sections.",Medical,Anesthesiology
+630,"Rapid assessment and treatment of patients with acute coronary syndrome (ACS), including myocardial infarction.",Medical,Emergency Medicine
+631,"Treatment of iron deficiency anemia with iron supplements, blood transfusions, and dietary modifications.",Medical,Hematology
+632,Surgical management of rotator cuff tears through arthroscopic techniques to restore shoulder function.,Medical,Orthopedics
+633,Management of migraines and chronic tension headaches using preventive medications and acute treatments.,Medical,Neurology
+634,"Management of heart failure with device therapy, including implantation of a cardiac defibrillator (ICD).",Medical,Cardiology
+635,Prevention and treatment of tuberculosis with a combination of antibiotics such as rifampin and isoniazid.,Medical,Infectious Diseases
+636,Use of liquid biopsy to detect circulating tumor DNA for early cancer detection and treatment monitoring.,Medical,Pathology
+637,Use of statins in the management of hypercholesterolemia to reduce the risk of cardiovascular diseases.,Medical,Cardiology
+638,Treatment of Alzheimer's disease with acetylcholinesterase inhibitors like donepezil and memantine.,Medical,Neurology
+639,"Management of osteoporosis with bisphosphonates, calcium, and vitamin D supplements to reduce fracture risk.",Medical,Orthopedics
+640,Treatment of colorectal cancer with chemotherapy regimens like FOLFOX and radiation therapy.,Medical,Oncology
+641,"Use of vaccines like MMR (measles, mumps, rubella) to prevent infectious diseases in children.",Medical,Pediatrics
+642,Management of hypovolemic shock through fluid resuscitation and blood transfusions.,Medical,Emergency Medicine
+643,"General anesthesia for major surgeries like abdominal, orthopedic, and thoracic procedures.",Medical,Anesthesiology
+644,"Microsurgical techniques for reconstruction after traumatic injuries, including free tissue transfer and grafting.",Medical,Plastic Surgery
+645,"Management of polycystic ovary syndrome (PCOS) with lifestyle changes, oral contraceptives, and metformin.",Medical,Gynecology
+646,"Diabetic ketoacidosis (DKA) management through insulin therapy, fluid resuscitation, and electrolyte replacement.",Medical,Endocrinology
+647,"Dialysis options, including hemodialysis and peritoneal dialysis, for patients with kidney failure.",Medical,Nephrology
+648,Ultrasound for assessing fetal development during pregnancy and diagnosing conditions like ectopic pregnancy.,Medical,Radiology
+649,"Blood smear analysis for diagnosing hematological conditions like anemia, leukemia, and malaria.",Medical,Pathology
+650,Treatment of HIV/AIDS with combination antiretroviral therapy (ART) to reduce viral load and improve immune function.,Medical,Infectious Diseases
+651,"Management of frailty in elderly patients with exercise programs, nutritional support, and polypharmacy review.",Medical,Geriatrics
+652,Management of rosacea with topical treatments like metronidazole and oral antibiotics.,Medical,Dermatology
+653,"Management of seasonal allergies with antihistamines, corticosteroids, and allergy immunotherapy.",Medical,Allergy & Immunology
+654,Treatment of hemophilia with clotting factor replacement therapy to prevent or stop bleeding episodes.,Medical,Hematology
+655,Cholecystectomy for the surgical removal of the gallbladder in patients with gallstones or cholecystitis.,Medical,General Surgery
+656,"Chronic disease management for conditions like hypertension, diabetes, and obesity to prevent complications.",Medical,Internal Medicine
+657,Use of folic acid supplementation during pregnancy to prevent neural tube defects in the developing fetus.,Medical,Obstetrics
+658,Management of glaucoma with intraocular pressure-lowering medications like prostaglandin analogs.,Medical,Ophthalmology
+659,"Treatment of sinusitis with antibiotics, nasal corticosteroids, and decongestants.",Medical,ENT
+660,Assisted reproductive technology (ART) such as in vitro fertilization (IVF) for couples facing infertility.,Medical,Reproductive Medicine
+661,"Management of atrial fibrillation with rate control, anticoagulation therapy, and possible cardioversion.",Medical,Cardiology
+662,Treatment of scoliosis with bracing or surgical intervention for severe spinal curvature.,Medical,Orthopedics
+663,Immunotherapy for lung cancer using PD-1 inhibitors like pembrolizumab and nivolumab.,Medical,Oncology
+664,"Treatment of epilepsy with antiepileptic drugs (AEDs) like levetiracetam, valproate, and lamotrigine.",Medical,Neurology
+665,Use of immunohistochemistry to detect specific cancer markers such as estrogen receptors in breast cancer.,Medical,Pathology
+666,CT angiography for evaluating coronary artery disease and identifying blockages in the arteries.,Medical,Radiology
+667,"Treatment of tuberculosis (TB) with a combination of antibiotics such as rifampin, isoniazid, and pyrazinamide.",Medical,Infectious Diseases
+668,Use of phototherapy for conditions like psoriasis and eczema that involve chronic skin inflammation.,Medical,Dermatology
+669,"Management of diverticulitis with antibiotics, bowel rest, and surgery if complications arise.",Medical,General Surgery
+670,Use of erythropoiesis-stimulating agents (ESAs) for the treatment of anemia in patients with chronic kidney disease.,Medical,Nephrology
+671,"Management of anaphylaxis with epinephrine, antihistamines, and corticosteroids.",Medical,Emergency Medicine
+672,Breast reconstruction following mastectomy using autologous tissue flaps or implants.,Medical,Plastic Surgery
+673,Use of bronchodilators and corticosteroids in the management of asthma exacerbations in children.,Medical,Pediatrics
+674,Thyroidectomy for the treatment of thyroid cancer or hyperthyroidism when medical management fails.,Medical,Endocrinology
+675,"Management of rotator cuff injuries through physical therapy, corticosteroid injections, and surgery if needed.",Medical,Orthopedics
+676,Use of antivirals like acyclovir in the treatment of herpes simplex virus (HSV) infections.,Medical,Infectious Diseases
+677,Radiation therapy combined with chemotherapy to treat advanced head and neck cancers.,Medical,Oncology
+678,Management of chronic obstructive pulmonary disease (COPD) with bronchodilators and inhaled corticosteroids.,Medical,Internal Medicine
+679,Cytology and biopsy for the diagnosis of cervical cancer through Pap smears and HPV testing.,Medical,Pathology
+680,"Management of coronary artery disease with lifestyle changes, medications, and coronary artery bypass grafting (CABG).",Medical,Cardiology
+681,Fertility preservation through sperm or egg banking for cancer patients before undergoing chemotherapy.,Medical,Reproductive Medicine
+682,"Fracture management with casting or surgical fixation using plates, screws, or nails.",Medical,Orthopedics
+683,"Reconstructive surgery after traumatic facial injuries, including fractures, lacerations, and burns.",Medical,Plastic Surgery
+684,Vaccination against meningitis with the MenACWY vaccine in adolescents and young adults.,Medical,Pediatrics
+685,"Chronic kidney disease management through lifestyle changes, blood pressure control, and phosphate binders.",Medical,Nephrology
+686,"Regional anesthesia for limb surgeries, such as nerve blocks or epidural anesthesia for lower body procedures.",Medical,Anesthesiology
+687,Trauma management of head injuries with CT scans and surgical intervention for skull fractures.,Medical,Emergency Medicine
+688,Management of iron-deficiency anemia through oral iron supplements and dietary changes.,Medical,Hematology
+689,"Management of osteoarthritis through weight management, joint injections, and knee or hip replacement surgery.",Medical,Orthopedics
+690,Management of Parkinson’s disease with dopaminergic medications like levodopa and deep brain stimulation.,Medical,Neurology
+691,Use of angioplasty and stenting to treat patients with acute coronary syndrome or myocardial infarction.,Medical,Cardiology
+692,Prevention and treatment of influenza through antiviral medications and annual vaccination.,Medical,Infectious Diseases
+693,Use of flow cytometry for diagnosing and classifying hematologic malignancies such as leukemia and lymphoma.,Medical,Pathology
+694,Targeted therapies like EGFR inhibitors for the treatment of non-small cell lung cancer (NSCLC).,Medical,Oncology
+695,"Management of hypercalcemia through hydration, bisphosphonates, and medications to lower calcium levels.",Medical,Internal Medicine
+696,Hernia repair surgery using mesh implants or laparoscopic techniques to repair abdominal wall defects.,Medical,General Surgery
+697,Peritoneal dialysis for patients with end-stage renal disease who cannot undergo hemodialysis.,Medical,Nephrology
+698,"Liposuction for body contouring, removal of stubborn fat deposits, and improving body appearance.",Medical,Plastic Surgery
+699,"Management of pediatric allergies with antihistamines, epinephrine injections, and avoidance strategies.",Medical,Pediatrics
+700,"Treatment of Cushing’s syndrome with surgery, radiation, or medication to lower cortisol levels.",Medical,Endocrinology
+701,Surgical management of torn ligaments or tendons with reconstruction or repair using sutures or grafts.,Medical,Orthopedics
+702,"Treatment of bacterial pneumonia with antibiotics such as amoxicillin, azithromycin, or ceftriaxone.",Medical,Infectious Diseases
+703,Chemotherapy for pancreatic cancer using gemcitabine and nab-paclitaxel as part of the treatment regimen.,Medical,Oncology
+704,"Screening for liver disease through blood tests, liver ultrasound, and liver biopsy if necessary.",Medical,Internal Medicine
+705,"Histological examination of biopsies to diagnose cancer, inflammatory conditions, and infections.",Medical,Pathology
+706,Use of pacemakers to regulate heart rhythm in patients with arrhythmias or heart block.,Medical,Cardiology
+707,Management of male infertility with sperm retrieval techniques and assisted reproductive technologies.,Medical,Reproductive Medicine
+708,Total shoulder replacement surgery for patients with severe rotator cuff tears and osteoarthritis.,Medical,Orthopedics
+709,Facial reconstruction surgery for congenital conditions like cleft lip and palate or traumatic injuries.,Medical,Plastic Surgery
+710,"Management of childhood obesity through diet modification, exercise programs, and behavioral therapy.",Medical,Pediatrics
+711,Kidney transplantation for patients with end-stage renal disease after thorough evaluation and matching.,Medical,Nephrology
+712,Conscious sedation for dental or minor surgical procedures using sedatives and local anesthesia.,Medical,Anesthesiology
+713,"Management of cardiac arrest with CPR, defibrillation, and advanced cardiac life support (ACLS).",Medical,Emergency Medicine
+714,Blood transfusions for patients with severe blood loss or anemia due to trauma or surgery.,Medical,Hematology
+715,Spinal fusion surgery for patients with degenerative disc disease or spinal instability.,Medical,Orthopedics
+716,"Management of chronic migraine headaches with preventive medications, lifestyle modifications, and acute treatments.",Medical,Neurology
+717,Heart valve replacement surgery using mechanical or bioprosthetic valves for patients with valvular heart disease.,Medical,Cardiology
+718,Prophylactic antibiotic treatment before surgery to prevent post-surgical infections in high-risk patients.,Medical,Infectious Diseases
+719,Molecular genetic testing for detecting mutations in genes related to inherited diseases like cystic fibrosis.,Medical,Pathology
+720,Management of coronary artery disease with stent placement and lifestyle changes to prevent further blockage.,Medical,Cardiology
+721,Use of levodopa and carbidopa in the treatment of Parkinson’s disease to manage motor symptoms.,Medical,Neurology
+722,Fracture treatment with external fixation for complex fractures requiring stabilization of bones externally.,Medical,Orthopedics
+723,Chemotherapy for breast cancer using agents like doxorubicin and cyclophosphamide to target rapidly dividing cells.,Medical,Oncology
+724,Management of congenital heart defects in infants through surgery or catheter-based procedures.,Medical,Pediatrics
+725,Use of intravenous fluids and vasopressors to manage septic shock and restore hemodynamic stability.,Medical,Emergency Medicine
+726,"Regional anesthesia for cesarean sections, epidural block to numb lower body during childbirth.",Medical,Anesthesiology
+727,"Facial reconstruction for cleft lip and palate, providing cosmetic and functional restoration.",Medical,Plastic Surgery
+728,Treatment of uterine fibroids with myomectomy or hysterectomy depending on the severity of symptoms.,Medical,Gynecology
+729,Thyroid hormone replacement therapy for patients with hypothyroidism to normalize thyroid function.,Medical,Endocrinology
+730,"Treatment of acute kidney injury with hydration, diuretics, and in some cases, dialysis support.",Medical,Nephrology
+731,"Magnetic resonance imaging (MRI) for diagnosing soft tissue injuries, brain tumors, and spinal conditions.",Medical,Radiology
+732,Histopathological examination of lymph nodes to detect lymphoma and other blood cancers.,Medical,Pathology
+733,Prophylactic use of antibiotics to prevent infections after surgeries like hip replacement or spinal surgery.,Medical,Infectious Diseases
+734,Management of age-related macular degeneration with anti-VEGF therapy and laser treatments to preserve vision.,Medical,Geriatrics
+735,"Management of eczema with topical corticosteroids, antihistamines, and moisturizing treatments.",Medical,Dermatology
+736,Transfusion therapy for patients with thalassemia or other hemoglobinopathies to manage chronic anemia.,Medical,Hematology
+737,Surgical management of inguinal hernia with mesh repair or laparoscopic techniques.,Medical,General Surgery
+738,Screening for diabetes with fasting glucose tests and hemoglobin A1c to monitor long-term glucose control.,Medical,Internal Medicine
+739,"Management of gestational diabetes through blood sugar monitoring, dietary changes, and insulin if needed.",Medical,Obstetrics
+740,Laser treatment for diabetic retinopathy to prevent vision loss caused by diabetic eye disease.,Medical,Ophthalmology
+741,"Treatment of chronic rhinosinusitis with nasal saline irrigation, nasal steroids, and possible sinus surgery.",Medical,ENT
+742,"Intrauterine insemination (IUI) for fertility treatment, especially in cases of male infertility or unexplained infertility.",Medical,Reproductive Medicine
+743,"Heart failure management with diuretics, ACE inhibitors, and beta-blockers to improve heart function.",Medical,Cardiology
+744,Total hip replacement surgery for patients with osteoarthritis or severe joint degeneration.,Medical,Orthopedics
+745,Immunotherapy for melanoma using checkpoint inhibitors like pembrolizumab and nivolumab.,Medical,Oncology
+746,Management of multiple sclerosis with disease-modifying therapies like interferons and monoclonal antibodies.,Medical,Neurology
+747,Molecular diagnostics for detecting genetic mutations in cancers like lung cancer and breast cancer.,Medical,Pathology
+748,"Computed tomography (CT) scan for detecting fractures, internal bleeding, and conditions like appendicitis.",Medical,Radiology
+749,Antiviral treatment for influenza with medications such as oseltamivir to reduce symptom severity and duration.,Medical,Infectious Diseases
+750,Photodynamic therapy for precancerous lesions and basal cell carcinoma to destroy abnormal skin cells.,Medical,Dermatology
+751,Bariatric surgery options like sleeve gastrectomy for obesity management in morbidly obese patients.,Medical,General Surgery
+752,"Kidney stone management with hydration, pain control, and lithotripsy for larger stones.",Medical,Nephrology
+753,Advanced cardiac life support (ACLS) protocols for patients experiencing cardiac arrest.,Medical,Emergency Medicine
+754,"Reconstructive breast surgery following mastectomy, including tissue flap procedures and implants.",Medical,Plastic Surgery
+755,"Immunization against preventable diseases such as diphtheria, tetanus, and whooping cough.",Medical,Pediatrics
+756,Use of glucagon-like peptide-1 (GLP-1) receptor agonists for weight management in type 2 diabetes.,Medical,Endocrinology
+757,"Knee arthroscopy for the diagnosis and treatment of meniscus tears, ligament injuries, and cartilage damage.",Medical,Orthopedics
+758,Management of sexually transmitted infections (STIs) with appropriate antibiotics and counseling.,Medical,Infectious Diseases
+759,Chemotherapy for leukemia using agents like methotrexate and cytarabine to kill cancer cells in the blood and bone marrow.,Medical,Oncology
+760,Management of chronic obstructive pulmonary disease (COPD) with bronchodilators and inhaled corticosteroids.,Medical,Internal Medicine
+761,"Examination of biopsy samples for lung cancer, including molecular testing to guide treatment decisions.",Medical,Pathology
+762,Management of arrhythmias with antiarrhythmic medications like amiodarone or pacemaker implantation.,Medical,Cardiology
+763,Embryo cryopreservation for fertility preservation prior to cancer treatments like chemotherapy.,Medical,Reproductive Medicine
+764,Treatment of Achilles tendon rupture with surgical repair and rehabilitation for recovery of foot function.,Medical,Orthopedics
+765,"Burn care management using skin grafts, wound care, and reconstructive surgery to restore appearance.",Medical,Plastic Surgery
+766,Treatment of pediatric pneumonia with antibiotics and supportive care such as hydration and oxygen therapy.,Medical,Pediatrics
+767,"Chronic kidney disease management through blood pressure control, diet modification, and renal function monitoring.",Medical,Nephrology
+768,Sedation for minor dental or medical procedures using local anesthesia and light sedation to reduce anxiety.,Medical,Anesthesiology
+769,"Trauma care for burn victims including fluid resuscitation, wound care, and pain management.",Medical,Emergency Medicine
+770,Management of sickle cell anemia with hydroxyurea and blood transfusions to reduce sickling episodes.,Medical,Hematology
+771,"Management of carpal tunnel syndrome with wrist splints, physical therapy, and surgical release if needed.",Medical,Orthopedics
+772,Management of anxiety and depression in patients with neurological conditions using medications and cognitive therapy.,Medical,Neurology
+773,"Treatment of acute myocardial infarction with thrombolytics, PCI, and coronary artery bypass grafting (CABG).",Medical,Cardiology
+774,Management of malaria with antimalarial medications like artemisinin-based combination therapies (ACT).,Medical,Infectious Diseases
+775,Cytogenetic testing for diagnosing genetic disorders like Down syndrome and other chromosomal abnormalities.,Medical,Pathology
+776,"Radiation therapy for brain tumors, including gliomas and metastases, to shrink or eliminate the cancerous cells.",Medical,Oncology
+777,"Managing hyperthyroidism with antithyroid drugs, radioactive iodine therapy, or thyroidectomy.",Medical,Internal Medicine
+778,Management of acute appendicitis with laparoscopic or open appendectomy to remove the inflamed appendix.,Medical,General Surgery
+779,Use of erythropoiesis-stimulating agents (ESAs) for anemia in patients with chronic kidney disease (CKD).,Medical,Nephrology
+780,Aesthetic surgery procedures like rhinoplasty and blepharoplasty to enhance facial features and appearance.,Medical,Plastic Surgery
+781,Early intervention for autism spectrum disorder (ASD) through behavior therapy and social skills training.,Medical,Pediatrics
+782,"Management of osteoporosis in postmenopausal women with bisphosphonates, calcium, and vitamin D supplements.",Medical,Endocrinology
+783,Treatment of scoliosis with bracing or surgical correction to prevent progression of spinal curvature.,Medical,Orthopedics
+784,Use of antifungals like fluconazole for treating systemic fungal infections such as candidiasis and aspergillosis.,Medical,Infectious Diseases
+785,Chemotherapy for head and neck cancer with agents like cisplatin and 5-fluorouracil (5-FU).,Medical,Oncology
+786,"Management of hyperlipidemia with statins, lifestyle changes, and diet modifications to reduce cardiovascular risk.",Medical,Internal Medicine
+787,"Use of flow cytometry for diagnosing hematologic cancers like leukemia, lymphoma, and multiple myeloma.",Medical,Pathology
+788,Coronary artery bypass surgery (CABG) to restore blood flow to the heart in patients with severe coronary artery disease.,Medical,Cardiology
+789,Artificial insemination (AI) as a fertility treatment for male infertility and unexplained infertility.,Medical,Reproductive Medicine
+790,Surgical treatment of degenerative disc disease with spinal fusion or disc replacement.,Medical,Orthopedics
+791,"Surgical repair of torn ligaments or tendons in the shoulder, knee, or ankle to restore function.",Medical,Plastic Surgery
+792,"Management of childhood obesity with dietary interventions, exercise programs, and behavioral therapy.",Medical,Pediatrics
+793,Kidney transplantation from living or deceased donors for patients with end-stage renal disease (ESRD).,Medical,Nephrology
+794,Induction of anesthesia for major surgeries using intravenous agents like propofol and muscle relaxants.,Medical,Anesthesiology
+795,"Management of traumatic brain injury with CT scans, neuroprotective strategies, and surgical interventions.",Medical,Emergency Medicine
+796,"Bone marrow biopsy for the diagnosis of leukemia, lymphoma, and other blood disorders.",Medical,Hematology
+797,Treatment of osteoporosis with bisphosphonates like alendronate to strengthen bones and prevent fractures.,Medical,Orthopedics
+798,Management of stroke with clot-busting agents like tPA (tissue plasminogen activator) and rehabilitation therapy.,Medical,Neurology
+799,Aortic aneurysm repair using endovascular stent grafts or open surgery to prevent rupture and life-threatening bleeding.,Medical,Cardiology
+800,Management of hepatitis B and C with antiviral medications and liver function monitoring.,Medical,Infectious Diseases
+801,Microscopic examination of tissue samples for diagnosing skin cancers like melanoma and basal cell carcinoma.,Medical,Pathology
+802,"Bone marrow transplant for patients with hematologic malignancies such as leukemia, lymphoma, and myeloma.",Medical,Oncology
+803,Treatment of gastroesophageal reflux disease (GERD) with proton pump inhibitors (PPIs) and lifestyle changes.,Medical,Internal Medicine
+804,Surgical management of colorectal cancer with resection of the affected colon and chemotherapy as adjunctive treatment.,Medical,General Surgery
+805,"Management of hypertension with antihypertensive medications such as ACE inhibitors, beta-blockers, and diuretics.",Medical,Cardiology
+806,Diagnosis and treatment of multiple sclerosis with disease-modifying therapies like interferons and monoclonal antibodies.,Medical,Neurology
+807,"Management of carpal tunnel syndrome with conservative treatments like splinting, corticosteroid injections, and surgery.",Medical,Orthopedics
+808,"Use of targeted therapy in the treatment of breast cancer, such as HER2 inhibitors like trastuzumab (Herceptin).",Medical,Oncology
+809,Management of attention-deficit hyperactivity disorder (ADHD) in children with stimulants like methylphenidate.,Medical,Pediatrics
+810,"Trauma management with triage systems and rapid assessment of airway, breathing, and circulation in patients.",Medical,Emergency Medicine
+811,Inhalational anesthetics like sevoflurane and isoflurane for maintaining anesthesia during major surgeries.,Medical,Anesthesiology
+812,Reconstructive surgery after burns to restore both function and appearance through grafting and tissue expansion.,Medical,Plastic Surgery
+813,"Management of endometriosis with medications like GnRH agonists, NSAIDs, and surgical removal of endometrial tissue.",Medical,Gynecology
+814,"Management of Cushing's syndrome through surgical removal of the pituitary tumor, radiation, or steroid reduction.",Medical,Endocrinology
+815,Dialysis options including peritoneal dialysis and hemodialysis for patients with chronic kidney disease.,Medical,Nephrology
+816,"Magnetic resonance imaging (MRI) to assess soft tissue injuries like muscle tears, joint instability, and tumors.",Medical,Radiology
+817,"Histopathological analysis of biopsies from various organs to diagnose conditions like cancer, fibrosis, and infections.",Medical,Pathology
+818,Treatment of bacterial meningitis with antibiotics like ceftriaxone and supportive care in the intensive care unit.,Medical,Infectious Diseases
+819,"Management of age-related cognitive decline through cognitive therapy, medications, and early intervention strategies.",Medical,Geriatrics
+820,"Management of acne vulgaris with topical retinoids, oral antibiotics, and sometimes oral contraceptives in women.",Medical,Dermatology
+821,"Stem cell transplantation for patients with leukemia, lymphoma, and other blood disorders requiring hematopoietic support.",Medical,Hematology
+822,"Cholecystectomy for treating gallstones, removing the gallbladder through laparoscopic or open surgery.",Medical,General Surgery
+823,"Management of chronic kidney disease with blood pressure control, dietary modifications, and monitoring renal function.",Medical,Internal Medicine
+824,"Prenatal screening and care during pregnancy, including ultrasound, blood tests, and maternal-fetal monitoring.",Medical,Obstetrics
+825,Laser therapy for diabetic retinopathy to prevent vision loss by targeting damaged blood vessels in the retina.,Medical,Ophthalmology
+826,"Management of chronic sinusitis with medications such as nasal corticosteroids, antibiotics, and sinus irrigation.",Medical,ENT
+827,"Use of in vitro fertilization (IVF) for couples with infertility, involving egg retrieval and embryo implantation.",Medical,Reproductive Medicine
+828,"Management of atrial fibrillation with rate control, anticoagulation therapy, and possible cardioversion to restore normal rhythm.",Medical,Cardiology
+829,"Surgical repair of hip fractures in elderly patients, including joint replacement or fixation with plates and screws.",Medical,Orthopedics
+830,"Use of radiation therapy for the treatment of prostate cancer, targeting cancer cells while preserving surrounding tissue.",Medical,Oncology
+831,Treatment of epilepsy with antiepileptic drugs such as levetiracetam and valproate to control seizures.,Medical,Neurology
+832,Diagnosis of lymphoma through tissue biopsy and immunohistochemistry to identify cell markers.,Medical,Pathology
+833,"Chest X-ray for evaluating pulmonary conditions like pneumonia, tuberculosis, and lung cancer.",Medical,Radiology
+834,Use of antiviral drugs such as acyclovir for the treatment of herpes simplex virus infections.,Medical,Infectious Diseases
+835,"Cryotherapy for the removal of benign skin lesions like warts, actinic keratosis, and seborrheic keratosis.",Medical,Dermatology
+836,"Management of diverticulitis with antibiotics, pain management, and, in severe cases, resection of affected bowel segments.",Medical,General Surgery
+837,"Management of glomerulonephritis with immunosuppressive drugs, diuretics, and blood pressure control.",Medical,Nephrology
+838,"Treatment of anaphylaxis with intramuscular epinephrine, antihistamines, and corticosteroids to reduce symptoms.",Medical,Emergency Medicine
+839,Breast augmentation surgery using implants to enhance breast size and shape.,Medical,Plastic Surgery
+840,Treatment of asthma exacerbations in children with short-acting bronchodilators and oral corticosteroids.,Medical,Pediatrics
+841,"Thyroidectomy for the treatment of thyroid cancer, including removal of part or all of the thyroid gland.",Medical,Endocrinology
+842,"Management of rotator cuff injuries with physical therapy, corticosteroid injections, and possible surgical repair.",Medical,Orthopedics
+843,Antibiotic therapy for urinary tract infections (UTIs) with drugs like trimethoprim-sulfamethoxazole and ciprofloxacin.,Medical,Infectious Diseases
+844,"Chemotherapy for colorectal cancer using agents like 5-fluorouracil, leucovorin, and oxaliplatin.",Medical,Oncology
+845,Management of chronic obstructive pulmonary disease (COPD) with inhaled bronchodilators and corticosteroids.,Medical,Internal Medicine
+846,"Blood smear examination to diagnose malaria, sickle cell anemia, and other hematologic conditions.",Medical,Pathology
+847,Coronary artery bypass grafting (CABG) to restore blood flow to the heart in patients with severe coronary artery disease.,Medical,Cardiology
+848,Fertility preservation through cryopreservation of eggs or sperm for patients undergoing cancer treatments.,Medical,Reproductive Medicine
+849,Knee arthroscopy for diagnosing and treating knee joint issues such as meniscus tears and ligament damage.,Medical,Orthopedics
+850,Rhinoplasty for cosmetic correction of the nose or functional correction due to breathing difficulties.,Medical,Plastic Surgery
+851,Management of juvenile idiopathic arthritis with medications such as methotrexate and corticosteroids to reduce inflammation.,Medical,Pediatrics
+852,Use of erythropoiesis-stimulating agents (ESAs) to treat anemia in patients with chronic kidney disease.,Medical,Nephrology
+853,"General anesthesia for major surgeries such as abdominal, orthopedic, and neurological procedures.",Medical,Anesthesiology
+854,"Trauma resuscitation with blood transfusions, intravenous fluids, and advanced airway management in critical patients.",Medical,Emergency Medicine
+855,"Management of anemia with iron supplementation, blood transfusions, and treatment of underlying causes.",Medical,Hematology
+856,"Spinal fusion surgery for the treatment of degenerative disc disease, spinal fractures, or scoliosis.",Medical,Orthopedics
+857,"Treatment of migraines with medications like triptans, preventive therapies, and lifestyle modifications.",Medical,Neurology
+858,"Management of heart failure with medications such as ACE inhibitors, beta-blockers, and diuretics to reduce symptoms.",Medical,Cardiology
+859,Management of HIV/AIDS with antiretroviral therapy (ART) to suppress the virus and improve immune function.,Medical,Infectious Diseases
+860,Diagnosis of cervical cancer using Pap smear screening and HPV testing to detect pre-cancerous changes in the cervix.,Medical,Pathology
+861,Use of targeted therapies in lung cancer with EGFR inhibitors or ALK inhibitors for personalized treatment.,Medical,Oncology
+862,"Management of diabetes with insulin therapy, oral hypoglycemic agents, and blood sugar monitoring.",Medical,Internal Medicine
+863,Bariatric surgery options like gastric bypass for the treatment of severe obesity and its associated comorbidities.,Medical,General Surgery
+864,"Management of polycystic kidney disease with blood pressure control, pain management, and renal function monitoring.",Medical,Nephrology
+865,Facial reconstruction for patients with traumatic injuries or congenital conditions such as cleft lip and palate.,Medical,Plastic Surgery
+866,Vaccination against pneumococcal infections with the PCV13 vaccine to protect against severe pneumonia.,Medical,Pediatrics
+867,Management of hyperparathyroidism with surgery to remove the overactive parathyroid glands and calcium regulation.,Medical,Endocrinology
+868,"Management of fractures with casting, splinting, or surgical fixation using screws, plates, or rods.",Medical,Orthopedics
+869,Use of antifungal medications like fluconazole for systemic fungal infections like candidiasis and aspergillosis.,Medical,Infectious Diseases
+870,Chemotherapy for ovarian cancer with drugs like paclitaxel and carboplatin to reduce tumor size and prevent recurrence.,Medical,Oncology
+871,Management of hypertension in elderly patients with careful monitoring of renal function and medication adjustments.,Medical,Internal Medicine
+872,Immunohistochemistry for diagnosing cancers by detecting specific tumor markers such as estrogen receptors in breast cancer.,Medical,Pathology
+873,"Management of angina with nitroglycerin, beta-blockers, and lifestyle modifications to improve heart health.",Medical,Cardiology
+874,Surgical treatment of endometriosis with laparoscopic procedures to remove excess endometrial tissue and improve fertility.,Medical,Reproductive Medicine
+875,Surgical intervention for ACL tears with ligament reconstruction using autografts or allografts.,Medical,Orthopedics
+876,Reconstructive surgery for patients with significant burn injuries to restore function and appearance.,Medical,Plastic Surgery
+877,Use of nebulized albuterol for acute asthma exacerbations in children to relieve airway constriction.,Medical,Pediatrics
+878,"Chronic kidney disease management through blood pressure control, dialysis initiation, and kidney transplant evaluation.",Medical,Nephrology
+879,Monitored anesthesia care (MAC) for procedures requiring sedation and local anesthesia to ensure patient comfort.,Medical,Anesthesiology
+880,"Treatment of stroke with thrombolytics, antiplatelet therapy, and rehabilitation to improve patient outcomes.",Medical,Emergency Medicine
+881,"Bone marrow biopsy for the diagnosis of blood cancers like leukemia, lymphoma, and myelodysplastic syndromes.",Medical,Hematology
+882,Total knee replacement for advanced osteoarthritis or knee joint dysfunction to relieve pain and improve mobility.,Medical,Orthopedics
+883,Management of Alzheimer's disease with cholinesterase inhibitors like donepezil and cognitive rehabilitation.,Medical,Neurology
+884,"Management of tuberculosis with first-line drugs such as isoniazid, rifampin, ethambutol, and pyrazinamide.",Medical,Infectious Diseases
+885,Use of implantable cardioverter-defibrillators (ICDs) for the prevention of sudden cardiac death in patients with arrhythmias.,Medical,Cardiology
+886,Treatment of hypothyroidism with levothyroxine to normalize thyroid hormone levels.,Medical,Endocrinology
+887,Use of immunotherapy with checkpoint inhibitors like pembrolizumab for advanced melanoma.,Medical,Oncology
+888,Management of multiple sclerosis with disease-modifying therapies such as interferon beta and natalizumab.,Medical,Neurology
+889,Neonatal jaundice treatment with phototherapy to reduce bilirubin levels and prevent kernicterus.,Medical,Pediatrics
+890,Laparoscopic cholecystectomy for gallstone disease to relieve pain and prevent complications.,Medical,General Surgery
+891,Management of gout with urate-lowering therapy like allopurinol and colchicine for acute flare-ups.,Medical,Internal Medicine
+892,Hemodialysis for end-stage renal disease to remove waste products and excess fluid from the blood.,Medical,Nephrology
+893,Iron supplementation for iron deficiency anemia to restore normal hemoglobin levels.,Medical,Hematology
+894,Hip replacement surgery for osteoarthritis to improve joint function and reduce pain.,Medical,Orthopedics
+895,Use of epinephrine for anaphylaxis to reverse severe allergic reactions and prevent shock.,Medical,Emergency Medicine
+896,Epidural anesthesia for pain relief during labor and cesarean section procedures.,Medical,Anesthesiology
+897,Frozen section biopsy for rapid intraoperative diagnosis of malignancies.,Medical,Pathology
+898,Breast reconstruction after mastectomy using autologous tissue or implants.,Medical,Plastic Surgery
+899,In vitro fertilization (IVF) for couples struggling with infertility to achieve pregnancy.,Medical,Reproductive Medicine
+900,Cataract surgery with intraocular lens implantation to restore vision.,Medical,Ophthalmology
+901,Cochlear implants for patients with profound hearing loss to improve auditory perception.,Medical,Otolaryngology
+902,Management of chronic obstructive pulmonary disease (COPD) with bronchodilators and pulmonary rehabilitation.,Medical,Pulmonology
+903,Use of biologics like adalimumab for moderate-to-severe psoriasis to reduce inflammation.,Medical,Dermatology
+904,"Migraine prophylaxis with beta-blockers, anticonvulsants, and lifestyle modifications.",Medical,Neurology
+905,Coronary artery bypass grafting (CABG) for severe coronary artery disease to restore blood flow to the heart.,Medical,Cardiology
+906,Radiation therapy for head and neck cancer to shrink tumors and prevent recurrence.,Medical,Oncology
+907,Management of peptic ulcer disease with proton pump inhibitors and Helicobacter pylori eradication therapy.,Medical,Internal Medicine
+908,Management of croup with corticosteroids and nebulized epinephrine for airway swelling.,Medical,Pediatrics
+909,Treatment of Cushing's syndrome with adrenalectomy or medical therapy to lower cortisol levels.,Medical,Endocrinology
+910,Rotator cuff repair for shoulder injuries to restore function and reduce pain.,Medical,Orthopedics
+911,Scar revision surgery to improve cosmetic appearance and minimize scar tissue.,Medical,Plastic Surgery
+912,Kidney stone management with lithotripsy to break up stones and facilitate passage.,Medical,Nephrology
+913,Total intravenous anesthesia (TIVA) for controlled sedation without inhaled agents.,Medical,Anesthesiology
+914,Management of sepsis with broad-spectrum antibiotics and fluid resuscitation to prevent organ failure.,Medical,Emergency Medicine
+915,Platelet transfusion for thrombocytopenia to prevent bleeding complications.,Medical,Hematology
+916,Deep brain stimulation for Parkinson’s disease to improve motor function and reduce tremors.,Medical,Neurology
+917,Percutaneous coronary intervention (PCI) with stenting for acute myocardial infarction.,Medical,Cardiology
+918,Hormone therapy for prostate cancer with androgen deprivation therapy.,Medical,Oncology
+919,Liquid biopsy for detecting circulating tumor DNA in cancer patients.,Medical,Pathology
+920,Laser trabeculoplasty for glaucoma to reduce intraocular pressure.,Medical,Ophthalmology
+921,Sinus surgery for chronic sinusitis to improve drainage and reduce infections.,Medical,Otolaryngology
+922,Lung transplantation for end-stage pulmonary fibrosis to restore respiratory function.,Medical,Pulmonology
+923,Cryotherapy for actinic keratosis to prevent progression to squamous cell carcinoma.,Medical,Dermatology
+924,Ovulation induction with clomiphene citrate for women with anovulatory infertility.,Medical,Reproductive Medicine
+925,Management of Kawasaki disease with intravenous immunoglobulin (IVIG) and aspirin.,Medical,Pediatrics
+926,Management of acromegaly with growth hormone receptor antagonists or surgical resection of pituitary tumors.,Medical,Endocrinology
+927,Treatment of scoliosis with bracing or spinal fusion surgery.,Medical,Orthopedics
+928,Liposuction for body contouring and fat reduction.,Medical,Plastic Surgery
+929,Management of acute kidney injury with supportive care and avoidance of nephrotoxic drugs.,Medical,Nephrology
+930,Regional nerve blocks for post-operative pain management.,Medical,Anesthesiology
+931,Cardiopulmonary resuscitation (CPR) and defibrillation for cardiac arrest.,Medical,Emergency Medicine
+932,Management of hemophilia with factor replacement therapy.,Medical,Hematology
+933,Treatment of epilepsy with antiepileptic drugs and vagus nerve stimulation.,Medical,Neurology
+934,Heart transplant for end-stage heart failure to improve survival and quality of life.,Medical,Cardiology
+935,Bone marrow transplant for leukemia and lymphoma patients requiring hematopoietic stem cell replacement.,Medical,Oncology
+936,Flow cytometry for immunophenotyping of hematologic malignancies.,Medical,Pathology
+937,Management of age-related macular degeneration with anti-VEGF injections.,Medical,Ophthalmology
+938,Tonsillectomy for recurrent tonsillitis or obstructive sleep apnea.,Medical,Otolaryngology
+939,Pulmonary function testing for diagnosing and monitoring respiratory diseases.,Medical,Pulmonology
+940,Mohs micrographic surgery for precise removal of skin cancer.,Medical,Dermatology
+941,Egg freezing for fertility preservation in women undergoing cancer treatment.,Medical,Reproductive Medicine
+942,Newborn screening for metabolic disorders to enable early intervention.,Medical,Pediatrics
+943,Diagnosis of Addison's disease with ACTH stimulation test and cortisol replacement therapy.,Medical,Endocrinology
+944,"Treatment of carpal tunnel syndrome with splinting, corticosteroids, or surgical release.",Medical,Orthopedics
+945,Botox injections for cosmetic wrinkle reduction and migraine management.,Medical,Plastic Surgery
+946,Peritoneal dialysis for patients with chronic kidney disease requiring renal replacement therapy.,Medical,Nephrology
+947,Spinal anesthesia for lower limb and abdominal surgeries.,Medical,Anesthesiology
+948,Management of drug overdose with naloxone for opioid toxicity.,Medical,Emergency Medicine
+949,Stem cell transplantation for aplastic anemia and bone marrow failure syndromes.,Medical,Hematology
+950,Management of Guillain-Barré syndrome with plasmapheresis or intravenous immunoglobulin.,Medical,Neurology
+951,Cardiac rehabilitation for post-myocardial infarction patients to improve cardiovascular health.,Medical,Cardiology
+952,Palliative care for terminal cancer patients to enhance quality of life.,Medical,Oncology
+953,Genetic testing for BRCA mutations in individuals at high risk for breast and ovarian cancer.,Medical,Pathology
+954,Refractive surgery such as LASIK for correction of myopia and astigmatism.,Medical,Ophthalmology
+955,Speech therapy for patients with vocal cord paralysis or dysphonia.,Medical,Otolaryngology
+956,Treatment of obstructive sleep apnea with continuous positive airway pressure (CPAP) therapy.,Medical,Pulmonology
+957,Topical retinoids for acne treatment to reduce inflammation and prevent scarring.,Medical,Dermatology
+958,Gestational surrogacy for couples unable to carry a pregnancy to term.,Medical,Reproductive Medicine
+959,Management of bronchiolitis in infants with supportive care and oxygen therapy if needed.,Medical,Pediatrics
+960,"Management of hyperthyroidism with antithyroid drugs, radioactive iodine, or surgery.",Medical,Endocrinology
+961,"Treatment of plantar fasciitis with physical therapy, orthotics, and corticosteroid injections.",Medical,Orthopedics
+962,Microsurgery for limb replantation after traumatic amputation.,Medical,Plastic Surgery
+963,Management of nephrotic syndrome with corticosteroids and dietary modifications.,Medical,Nephrology
+964,Conscious sedation for minor surgical and dental procedures.,Medical,Anesthesiology
+965,Post-exposure prophylaxis (PEP) for HIV prevention after potential exposure.,Medical,Infectious Diseases
+966,Transcatheter aortic valve replacement (TAVR) for severe aortic stenosis in high-risk patients.,Medical,Cardiology
+967,Insulin pump therapy for type 1 diabetes to optimize glucose control.,Medical,Endocrinology
+968,Brachytherapy for localized prostate cancer to deliver targeted radiation.,Medical,Oncology
+969,Botulinum toxin injections for spasticity in cerebral palsy patients.,Medical,Neurology
+970,Management of neonatal sepsis with broad-spectrum antibiotics and supportive care.,Medical,Pediatrics
+971,Colectomy for ulcerative colitis in patients with severe disease.,Medical,General Surgery
+972,Helicobacter pylori eradication with triple therapy for peptic ulcer disease.,Medical,Internal Medicine
+973,Renal biopsy for diagnosing glomerulonephritis and kidney disorders.,Medical,Nephrology
+974,Erythropoietin therapy for anemia in chronic kidney disease patients.,Medical,Hematology
+975,External fixation for complex fractures and limb stabilization.,Medical,Orthopedics
+976,Advanced cardiac life support (ACLS) for managing cardiac arrest.,Medical,Emergency Medicine
+977,Nitrous oxide sedation for minor procedures and dental treatments.,Medical,Anesthesiology
+978,Cytogenetic analysis for identifying chromosomal abnormalities in leukemia.,Medical,Pathology
+979,Fat grafting for facial rejuvenation and reconstructive purposes.,Medical,Plastic Surgery
+980,Embryo freezing for preserving fertility in patients undergoing chemotherapy.,Medical,Reproductive Medicine
+981,Vitrectomy for retinal detachment to restore vision.,Medical,Ophthalmology
+982,Balloon sinuplasty for chronic sinusitis to improve sinus drainage.,Medical,Otolaryngology
+983,Long-term oxygen therapy for chronic hypoxemia in COPD patients.,Medical,Pulmonology
+984,Psoralen plus ultraviolet A (PUVA) therapy for severe psoriasis.,Medical,Dermatology
+985,Thrombectomy for acute ischemic stroke to restore blood flow.,Medical,Neurology
+986,Left ventricular assist device (LVAD) implantation for end-stage heart failure.,Medical,Cardiology
+987,Photodynamic therapy for superficial esophageal cancer.,Medical,Oncology
+988,Colchicine therapy for acute pericarditis to reduce inflammation.,Medical,Internal Medicine
+989,Management of febrile seizures in children with antipyretics and observation.,Medical,Pediatrics
+990,Thyroidectomy for thyroid cancer or large goiters causing compression symptoms.,Medical,Endocrinology
+991,Meniscus repair surgery for knee injuries to preserve joint function.,Medical,Orthopedics
+992,Breast reduction surgery for macromastia and associated discomfort.,Medical,Plastic Surgery
+993,Sodium bicarbonate therapy for metabolic acidosis in chronic kidney disease.,Medical,Nephrology
+994,Propofol sedation for short outpatient procedures.,Medical,Anesthesiology
+995,Crush injury management with aggressive fluid resuscitation and monitoring for rhabdomyolysis.,Medical,Emergency Medicine
+996,Hydroxyurea therapy for sickle cell disease to reduce vaso-occlusive crises.,Medical,Hematology
+997,Transcranial magnetic stimulation for treatment-resistant depression.,Medical,Neurology
+998,Ablation therapy for atrial fibrillation to restore normal heart rhythm.,Medical,Cardiology
+999,Targeted therapy with BRAF inhibitors for metastatic melanoma.,Medical,Oncology
+1000,Fine-needle aspiration biopsy for evaluating thyroid nodules.,Medical,Pathology
+1001,Corneal transplantation for severe keratoconus to restore vision.,Medical,Ophthalmology
+1002,Myringotomy with tympanostomy tube placement for recurrent ear infections.,Medical,Otolaryngology
+1003,Endobronchial ultrasound-guided biopsy for diagnosing lung cancer.,Medical,Pulmonology
+1004,Isotretinoin therapy for severe acne resistant to conventional treatments.,Medical,Dermatology
+1005,Intrauterine insemination (IUI) for mild male factor infertility.,Medical,Reproductive Medicine
+1006,Neonatal hypoglycemia management with glucose infusion and monitoring.,Medical,Pediatrics
+1007,Gonadotropin therapy for male hypogonadism to restore testosterone levels.,Medical,Endocrinology
+1008,Kyphoplasty for vertebral compression fractures to reduce pain and restore height.,Medical,Orthopedics
+1009,Hand reconstruction surgery for congenital deformities or trauma.,Medical,Plastic Surgery
+1010,"Hyperkalemia management with calcium gluconate, insulin, and dialysis if necessary.",Medical,Nephrology
+1011,Dexmedetomidine for sedation in critically ill patients.,Medical,Anesthesiology
+1012,Heat stroke treatment with aggressive cooling and fluid resuscitation.,Medical,Emergency Medicine
+1013,Warfarin anticoagulation for deep vein thrombosis prevention.,Medical,Hematology
+1014,Management of essential tremor with propranolol or deep brain stimulation.,Medical,Neurology
+1015,Management of peripartum cardiomyopathy with beta-blockers and diuretics.,Medical,Cardiology
+1016,CAR-T cell therapy for relapsed or refractory lymphomas.,Medical,Oncology
+1017,Frozen section examination for intraoperative margin assessment.,Medical,Pathology
+1018,Management of diabetic retinopathy with laser photocoagulation.,Medical,Ophthalmology
+1019,Surgical correction of deviated nasal septum with septoplasty.,Medical,Otolaryngology
+1020,Pleurodesis for recurrent pleural effusions in cancer patients.,Medical,Pulmonology
+1021,Topical corticosteroids for atopic dermatitis flare-ups.,Medical,Dermatology
+1022,Sperm retrieval techniques for men with azoospermia undergoing IVF.,Medical,Reproductive Medicine
+1023,Management of congenital hypothyroidism with lifelong levothyroxine.,Medical,Pediatrics
+1024,Management of pheochromocytoma with alpha-blockers before surgery.,Medical,Endocrinology
+1025,Arthroscopic debridement for osteochondral defects in joints.,Medical,Orthopedics
+1026,Abdominoplasty for cosmetic and reconstructive purposes.,Medical,Plastic Surgery
+1027,Loop diuretics for volume overload in chronic kidney disease.,Medical,Nephrology
+1028,Lidocaine infusion for chronic pain management.,Medical,Anesthesiology
+1029,Management of drowning victims with oxygen therapy and ventilation support.,Medical,Emergency Medicine
+1030,Splenectomy for hereditary spherocytosis to prevent hemolytic crises.,Medical,Hematology
+1031,Management of trigeminal neuralgia with carbamazepine or microvascular decompression.,Medical,Neurology
+1032,Use of anticoagulation in atrial fibrillation to reduce stroke risk.,Medical,Cardiology
+1033,Hedgehog pathway inhibitors for basal cell carcinoma.,Medical,Oncology
+1034,Electron microscopy for diagnosing renal diseases and viral infections.,Medical,Pathology
+1035,Management of keratitis with antimicrobial eye drops and supportive care.,Medical,Ophthalmology
+1036,Surgical repair of choanal atresia in newborns with nasal obstruction.,Medical,Otolaryngology
+1037,Mediastinoscopy for staging lung cancer and diagnosing mediastinal masses.,Medical,Pulmonology
+1038,Patch testing for diagnosing contact dermatitis and allergic skin reactions.,Medical,Dermatology
+1039,Hormonal therapy for transgender individuals undergoing gender transition.,Medical,Reproductive Medicine
+1040,"Management of pediatric obesity with diet, exercise, and behavioral therapy.",Medical,Pediatrics
+1041,Management of hyperaldosteronism with aldosterone antagonists or adrenalectomy.,Medical,Endocrinology
+1042,Joint aspiration for diagnosing and relieving pain from inflammatory arthritis.,Medical,Orthopedics
+1043,Tissue expansion for reconstructive surgery following burns or trauma.,Medical,Plastic Surgery
+1044,Anemia management in chronic kidney disease with erythropoiesis-stimulating agents.,Medical,Nephrology
+1045,Neuraxial analgesia for post-operative pain control.,Medical,Anesthesiology
+1046,Carbon monoxide poisoning treatment with hyperbaric oxygen therapy.,Medical,Emergency Medicine
+1047,Desmopressin for bleeding disorders like von Willebrand disease.,Medical,Hematology
+1048,Tic disorder management with behavioral therapy and dopamine antagonists.,Medical,Neurology
+1049,Use of statins for primary and secondary prevention of cardiovascular disease.,Medical,Cardiology
+1050,Checkpoint inhibitors for non-small cell lung cancer with high PD-L1 expression.,Medical,Oncology
+1051,Tumor marker testing for monitoring treatment response in cancer patients.,Medical,Pathology
+1052,Intravitreal steroid injections for macular edema secondary to diabetes.,Medical,Ophthalmology
+1053,Voice therapy for vocal cord nodules and hoarseness.,Medical,Otolaryngology
+1054,Use of antifibrotic agents for idiopathic pulmonary fibrosis.,Medical,Pulmonology
+1055,Phototherapy for vitiligo to stimulate repigmentation of affected areas.,Medical,Dermatology
