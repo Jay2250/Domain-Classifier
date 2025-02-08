@@ -76,6 +76,7 @@ Pygments==2.19.1
 pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2024.2
+pywin32==308
 pyzmq==26.2.0
 referencing==0.36.2
 regex==2024.11.6
@@ -94,9 +95,8 @@ streamlit==1.41.1
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow-cpu
-tensorflow==2.14.0
-tensorflow_intel==2.14.0
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toml==0.10.2
