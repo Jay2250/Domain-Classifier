@@ -8,9 +8,7 @@ import joblib
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.multioutput import MultiOutputClassifier
 from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import classification_report
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
@@ -28,7 +26,7 @@ nltk.download('wordnet')
 # Load dataset
 # df = pd.read_csv("../Dataset/processed_data/final_dataset.csv")
 df = pd.read_csv("final_dataset.csv")
-print("Dataset loaded successfully.)")
+print("Dataset loaded successfully.")
 
 # Text Preprocessing
 
